@@ -1,0 +1,1283 @@
+﻿HEALTHCARE
+Title:Medical Staff Salaries Increased 
+Variable: ReportsVar.
+City/Country: Narbel         
+Condition Check: Healthcare_Salary
+The wage increase for doctors, nurses and other health care workers has gone into effect in Narbel. Hospitals and clinics are already reporting a higher level of patient satisfaction, while the “rural incentive” provided on top of the salary raise is expected to draw more highly qualified medical staff to the area.
+END
+Title:Healthcare Quality Improved
+Variable: ReportsVar.
+City/Country: Laren         
+Condition Check: Healthcare_ImproveRural
+Reports from hospitals and clinics in Laren indicate a significant rise in the quality of health care since more funding was channelled into rural areas. Mortality rates appear to be decreasing, while patients are reporting a higher level of trust in physicians and medical facilities.
+END
+Title:New Hospital Built 
+Variable: ReportsVar.
+City/Country: Uziren        
+Condition Check: Healthcare_Hospitals
+Uziren has just finished construction on its new, state-of-the-art hospital, expected to be able to accommodate up to 1000 patients. The facility was built as part of the new initiative to improve health care access in Sordland’s rural areas.
+END
+____________________________________________________________________
+
+
+GENERAL STAFF
+
+
+[a]
+Title:General Staff Positive Reaction
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: Sollist  >+5 
+
+
+Earlier this week, the military most respected general Iosef had voiced his pleasure to work under the administration. In his word: “The current President is a man of tradition. He is strong and he is a decisive. I had worked with President Soll before, I know President Soll. He is my friend. And I know that he is proud of what President Anton had achieved.”
+
+
+[b]
+END
+[c]Title:General Staff Negative Reaction
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: .Sollist < -5
+
+
+[d]
+There had been a series of military condemnation toward the administration during the last few weeks. With the military's most respected general Iosef at its head. According to his words : “If this president doesn’t demonstrate the leadership that Sordland needs, both domestically and abroad, then it is time for a new person in the Maroon Palace – the sooner, the better. The fate of our Republic depends upon it.”
+END
+
+
+____________________________________________________________________
+
+
+
+
+EDUCATION
+
+
+Title:Teacher Salaries Increased 
+Variable: ReportsVar.
+City/Country: Vesord         
+Condition Check: Education_Salary
+The wage increase for teachers, principals and other education staff has gone into effect in Vesord. Following the salary boost, teachers are already reporting a higher level of job satisfaction; students are expected to benefit commensurately.
+END
+Title:Rural Education Improves Significantly
+Variable: ReportsVar.
+City/Country:  Ribel        
+Condition Check: Education_ImproveRural
+Ribel is reporting higher test scores and attendance rates since its education facilities were equipped with new textbooks and state-of-the-art teaching materials. The overhaul was a result of the decision to channel more funding into rural schools.
+END
+Title:New School Completed 
+Variable: ReportsVar.
+City/Country: Narbel        
+Condition Check: Education_Schools
+Narbel celebrated the opening of its new secondary school, a two-story building with 50 classrooms and state-of-the-art teaching equipment. The school was funded as part of the government initiative to improve rural access to education.
+END
+
+
+
+
+_________________________________________________________________________
+
+
+EDUCATION LANGUAGE BILL
+[e][f]
+Title:--Bill Signed Protest in Bergia
+Variable: ReportsVar.
+City/Country: Bergia
+Condition Check: [g][h]Turn07_LanguageBill_Signed == true
+
+
+After the passing of the Language Bill, a wave of Bludish protesters have risen and are calling for the abolishment of it. The Bergia region has a deep history of bloody violence spanning for decades and have been stabilizing since the 1935 uprising. However, the new bill might give the BFF another reason to rise, once again.
+END
+Title:--Bludish Students Drop School In Protest
+Variable: ReportsVar.
+City/Country:          
+Condition Check: if bill signed
+
+
+Text
+END
+_________________________________________________________________________
+
+
+UNREST
+Title:Peaceful Protest
+Variable: ReportsVar.
+City/Country:          
+Condition Check: 
+
+
+Text
+END
+Title:Peaceful Protest 2
+Variable: ReportsVar.
+City/Country:          
+Condition Check: 
+
+
+Text
+END
+Title:Bludish Protest
+Variable: ReportsVar.
+City/Country:          
+Condition Check: 
+
+
+Text
+END
+Title:BFF Recruits from Bludish Villages
+Variable: ReportsVar.
+City/Country:          
+Condition Check: 
+
+
+Text
+END
+Title:Gang Violence Claims More Lives
+Variable: ReportsVar.
+City/Country: Estord         
+Condition Check: 
+
+Text
+END
+
+
+Title:Gang Violence Diminished
+Variable: ReportsVar.
+City/Country: Estord    
+Condition Check: 
+
+
+Text
+END
+
+
+_________________________________________________________________________
+
+
+FIRST INFRASTRUCTURE PROJECT
+
+
+
+
+
+
+
+
+[i][j][k][l]
+Title:H-3 construction soon to be complete  - delayed - Worker Strikes - Taurus
+Variable: ReportsVar.
+City/Country: LACHAVEN 
+Condition Check: BillsVar.Turn04_WorkersRights_Signed == false && SuzVar.Enable_TaurusHighwayIssue = true
+
+
+With the poor condition of the road network between Lachaven and Avory, causing unnecessary accidents along the seaside, a highway has been contracted to the privately-owned Taurus Holding. Regrettably, there has been a strike during the progress, due to the vetoed Workers’ Rights bill, causing the project to be delayed. Fortunately, there haven’t been any more difficulties since, and the project is expected to be finished in the near future.
+[m][n][o][p]
+END
+[q][r][s][t]
+Title:H-3 construction soon to be complete  - delayed - Normal Delay - Taurus
+Variable: ReportsVar.
+City/Country: LACHAVEN   
+Condition Check: BillsVar.Turn04_WorkersRights_Signed ==  true && SuzVar.Enable_TaurusHighwayIssue = true
+
+
+With the poor condition of the road network between Lachaven and Avory, causing unnecessary accidents along the seaside, a highway has been contracted to the privately-owned Taurus Holding. Regrettably, the project is delayed due to the unforeseen expenses from the new Labour Laws. Fortunately, there haven’t been any more difficulties since, and the project is expected to be finished in the near future.
+[u][v][w][x]
+END
+[y][z][aa][ab]
+Title:L-1 construction soon to be complete  - delayed - Worker Strikes Delay - Taurus
+Variable: ReportsVar.
+City/Country:  HOLSORD  
+Condition Check: BillsVar.Turn04_WorkersRights_Signed == false && SuzVar.Enable_TaurusRailwayIssue = true
+
+
+Logistical problems have plagued the businesses between Holsord and Lachaven for many years, hampering the development speed of the two big cities. The L-1 railway is the solution to this problem. With the disaster at the Morbel mine in combination with the vetoed Worker’s Rights bill, Taurus’s Workers were striking causing the project to be delayed. Fortunately, there haven’t been any more difficulties since, and the project is expected to be finished in the near future.
+[ac][ad][ae][af]
+END
+[ag][ah][ai][aj]
+Title:L-1 construction soon to be complete  - delayed - Normal Delay - Taurus
+Variable: ReportsVar.
+City/Country: HOLSORD      
+Condition Check: BillsVar.Turn04_WorkersRights_Signed == true && SuzVar.Enable_TaurusRailwayIssue = true
+
+
+Logistical problems have plagued the businesses between Holsord and Lachaven for many years, hampering the development speed of the two big cities. The L-1 railway is the solution to this problem. Regrettably, the project is delayed due to the unforeseen expenses from the new Labour Laws. Fortunately, there haven’t been any more difficulties since, and the project is expected to be finished in the near future.
+[ak][al][am][an]
+END
+[ao][ap][aq][ar]
+Title:H-3 construction soon to be complete  - delayed - SSC
+Variable: ReportsVar.
+City/Country: LACHAVEN   
+Condition Check: Turn02_InT_Corporation_SordishState == true && SuzVar.Enable_SSCHighwayIssue = true
+With the poor condition of the road network between Lachaven and Avory, causing unnecessary accidents along the seaside, a highway had been contracted to the government-owned Sordish State Cooperation. Regrettably, the progress is slowing down due to the treacherous terrain between Lenkurg and Arvory. Fortunately, there haven’t been any more difficulties since, and the project is expected to be finished in the near future.
+[as][at][au][av]
+END
+[aw][ax][ay][az]
+Title:L-1 construction soon to be complete  - delayed - SSC
+Variable: ReportsVar.
+City/Country: HOLSORD 
+Condition Check: Turn02_InT_Corporation_SordishState == true && SuzVar.Enable_SSCRailwayIssue = true
+Logistical problems have plagued the businesses between Holsord and Lachaven for many years, hampering the development speed of the two cities. The L-1 railway is the solution to this problem. Regrettably, the progress is slowing down due to the treacherous terrain, causing landslides, on the path to Gelsord. Fortunately, there haven’t been any more difficulties since, and the project is expected to be finished in the near future.
+
+
+[ba][bb][bc][bd]
+END
+
+
+
+
+____________________________________________________________________
+
+
+
+
+ECONOMY
+
+
+
+
+Title:Sarna Increases Agricultural Production
+Variable: ReportsVar.
+City/Country:  Sarna        
+Condition Check:  if Bergia invested
+Sarna has experienced a 15 percent increase in agricultural output over the last two years. Employment in the agricultural sector has been rising commensurately. The boom is thought to be a direct result of the investments made in the Bergia region.
+END
+Title:Homelessness Among Bludish Decreases
+Variable: ReportsVar.
+City/Country:  Deyr        
+Condition Check:  if Bergia invested + No blud banned
+Deyr is reporting a 20 percent decrease in homelessness among its Bludish population over the past two years, a development welcomed by Bludish rights activists. The decrease corresponds with a rise in wages and employment in the city following the government decision to invest in the Bergia region.
+END
+Title:Arvory Development Speeds Up Following Highway Construction
+Variable: ReportsVar.
+City/Country:  arvory 
+Condition Check:  if h-3 completed
+The completion of the H-3 highway between Lachaven and Arvory has resulted in decreased logistical costs and higher traffic flow to the latter city. The pace of development in Arvory has consequently quickened significantly, with dozens of construction projects now on the horizon.
+END
+Title:Unemployment Greatly Reduced in Morna
+Variable: ReportsVar.
+City/Country:  morna     
+Condition Check:  if lorren invested
+Morna has seen a 15 percent decrease in unemployment over the past year. The city’s economy had previously been lagging behind the rest of Sordland; with the government decision to invest in the Lorren region, it appears to be bouncing back.
+END
+Title:Port of Lachaven Gains New Importance
+Variable: ReportsVar.
+City/Country:  Lachaven     
+Condition Check:  if L-1 completed
+Following the completion of the L-1 high-speed railway between Holsord and Lachaven, the Port of Lachaven has been experiencing higher traffic than ever. An increasing number of businesses are now choosing to ship their goods by boat as a result of the more efficient transit process.
+END
+Title:Recession Hits Workers
+Variable: ReportsVar.
+City/Country: Gelsord    
+Condition Check:  if economy low
+As in the rest of Sordland, workers in Gelsord are bearing the brunt of the recession. The manufacturing sector has been hit particularly hard, as a record number of of factory workers filed for unemployment over the past month.
+END
+Title:Currency Loses Value Against Arcasian Lira
+Variable: ReportsVar.
+City/Country: Holsord    
+Condition Check:  if economy low
+Financial reports show that the Sordish ren has steadily been slipping against the Arcasian lira, though the exchange rate has not yet approached the all-time low reached during the Alphonso administration. 
+END
+
+
+Title:--add wehlen operation context--Wehlen Trade Report
+Variable: ReportsVar.
+City/Country: Deyr    
+Condition Check: 
+
+
+The trade deal struck with Wehlen continues to bear fruit as Bergia sees an upward trend in agricultural exports. Manufacturing industries are also celebrating the decreased production costs that have resulted from the uptick in importation of Wehzek oil. 
+END
+
+
+Title:Bergia Steel Fully Nationalized
+Variable: ReportsVar.
+City/Country:          
+Condition Check: [be][bf][bg][bh][bi][bj][bk]BergiaSteel_Nationalisation >= 6
+The Lotherberg Group's CEO, Walter Tusk, has shown his discontent by stating the administration's actions as “Unconstitutional” and “Un-democratic”. A significant number of investors both within and out of Sordland are canceling their orders, most likely due to Mr.Tusk’s influence. However, with the backbone of the economy in the administration’s hands, Sordland’s future will fully be in government control.
+
+
+END
+
+
+[bl][bm][bn][bo][bp][bq][br]
+Title:HOS Fully Nationalized - Sordland Today in Control
+Variable: ReportsVar.
+City/Country:          
+Condition Check: [bs][bt][bu][bv][bw][bx][by]HeartOfSordland_Nationalisation >= 6
+Before leaving,The Heart of Sordland’s ex-CEO, Marcel Koronti, had made a statement to the whole of Sordland: “Freedom of the press is dead in Sordland ''. However, there is an overwhelming wave of support from within USP applauding the administration’s decision. With HOS under control, public opinions are fully within our grasp.
+END
+
+
+
+
+[bz][ca][cb][cc][cd][ce][cf]
+Title:SSC Privatized - Bought by Marcel
+Variable: ReportsVar.
+City/Country:          
+Condition Check: [cg][ch][ci][cj][ck][cl][cm]SordishStateCorporation_Privatisation >= 6 && GrantedShares_MarcelKoronti == true
+As of today, The Sordish State Corporation is officially owned by Marcel Koronti. The CEO of Heart of Sordland is extremely grateful for our decisions and promises that the press will support the administration. However, there are voices of discontent within the USP and we should be expecting some push back within the assembly.
+[cn][co][cp][cq][cr][cs][ct]
+END
+
+
+[cu][cv][cw][cx][cy][cz][da]
+Title:SSC Privatized - Bought by Tusk
+Variable: ReportsVar.
+City/Country:          
+Condition Check: [db][dc][dd][de][df][dg][dh]SordishStateCorporation_Privatisation >= 6 &&  GrantedShares_WalterTusk == true
+As of today, The Sordish State Corporation is officially owned by Walter Tusk. With the acquisition of SSC, Walter Tusk is now without a rival within Sordland. The CEO of The Lotherberg group is extremely grateful for our decisions and vow the group will support the administration. 
+[di][dj][dk][dl][dm][dn][do]
+END
+[dp][dq][dr][ds][dt][du][dv]
+Title:SSC Privatized - Public Sale
+Variable: ReportsVar.
+City/Country:          
+Condition Check: [dw][dx][dy][dz][ea][eb][ec]SordishStateCorporation_Privatisation >= 6 &&  GrantedShares_WalterTusk == false && GrantedShares_MarcelKoronti == false
+As of today, The Sordish State Corporation has officially open its share to investors. Many groups and organizations are racing to acquire shares within the corporation. The two major organizations, the Heart of Sordland and the Lotherberg Group, are competing against each other for the majority. Nevertheless, there are voices of discontentment within the USP and we should be expecting some push back within the assembly.
+[ed][ee][ef][eg][eh][ei][ej]
+END
+[ek][el][em][en][eo][ep][eq]
+Title:Nedam Privatized - Bought by Marcel
+Variable: ReportsVar.
+City/Country:          
+Condition Check: [er][es][et][eu][ev][ew][ex]NedamMiningGroup_Privatisation >= 6 && GrantedShares_MarcelKoronti == true
+[ey][ez][fa][fb][fc][fd][fe]
+As of today, The Nedam Mining Group is officially owned by Marcel Koronti. The CEO of Heart of Sordland is extremely grateful for our decisions and promises that the press will support the administration. However, there are voices of discontent within the USP and we should be expecting some push back within the assembly.
+[ff][fg][fh][fi][fj][fk][fl]
+END
+[fm][fn][fo][fp][fq][fr][fs]
+Title:Nedam Privatized - Bought by Tusk
+Variable: ReportsVar.
+City/Country:          
+Condition Check: [ft][fu][fv][fw][fx][fy][fz]NedamMiningGroup_Privatisation >= 6 && GrantedShares_WalterTusk == true
+As of today, [ga][gb][gc][gd][ge][gf][gg]The Nedam Mining Group is officially owned by Walter Tusk. With the acquisition of SSC, Walter Tusk is now without a rival within Sordland. The CEO of The Lotherberg group is extremely grateful for our decisions and vow the group will support the administration. 
+[gh][gi][gj][gk][gl][gm][gn]
+END
+[go][gp][gq][gr][gs][gt][gu]
+Title:Nedam Privatized - Public Sale
+Variable: ReportsVar.
+City/Country:          
+Condition Check: [gv][gw][gx][gy][gz][ha][hb]NedamMiningGroup_Privatisation >= 6 &&  GrantedShares_WalterTusk == false && GrantedShares_MarcelKoronti == false
+As of today, [hc][hd][he][hf][hg][hh][hi]The Nedam Mining Group  has officially open its share to investors. Many groups and organizations are racing to acquire shares within the corporation. The two major organizations, the Heart of Sordland and the Lotherberg Group, are competing against each other for the majority. Nevertheless, there are voices of discontentment within the USP and we should be expecting some push back within the assembly.
+
+
+[hj][hk][hl][hm][hn][ho][hp]
+END
+[hq][hr][hs][ht][hu][hv][hw]
+Title:Ribery is recovering - Local Economy Report - Trade War[hx][hy][hz][ia][ib][ic][id] - Recovered 
+Variable: ReportsVar.
+City/Country: Ribery       
+Condition Check: [ie][if][ig][ih][ii][ij][ik]Budget >= 3
+Thanks to the administration's decisive actions, the economic impacts of the trade war between Arcasia and United Contana had lessened. The empty and barred up shops in the city of Ribery are slowly opening again. The city had been hit hard due to its main suppliers are from the nearby city of Lachaven.
+[il][im][in][io][ip][iq][ir]
+END
+[is][it][iu][iv][iw][ix][iy]
+Title:Ribery requests aid - Local Economy Report - Trade War[iz][ja][jb][jc][jd][je][jf] - Struggle
+Variable: ReportsVar.
+City/Country: Ribery       
+Condition Check: [jg][jh][ji][jj][jk][jl][jm]Budget < 3
+The buzzing shops in the city of Ribery are now filled with barred up shops and sights of looting. The city has been hit hard due to its main suppliers are from the nearby city of Lachaven. Many corporations and businesses are moving away from the city entirely. The citizens of Ribery are requesting the government’s help to get out of their dire situation.
+[jn][jo][jp][jq][jr][js][jt]
+END
+
+
+[ju][jv][jw][jx][jy][jz][ka]
+Title:Antel is recovering - Local Economy Report - Markets Crash[kb][kc][kd][ke][kf][kg][kh] - Recovered
+Variable: ReportsVar.
+City/Country: Antel        
+Condition Check: [ki][kj][kk][kl][km][kn][ko]Economy >= 5
+The city of Antel has reported starting its recovery from the recent Martket Crash. It is reported that more than 31.53% of its population travel to the nearby city of Conriat and Holsord for works. The crash has left most of the citizens of Antel unemployed due to most companies and shops had closed down during the disastrous event.
+[kp][kq][kr][ks][kt][ku][kv]
+END
+
+
+[kw][kx][ky][kz][la][lb][lc]
+Title:Antel requests Aid - Local Economy Report - Markets Crash[ld][le][lf][lg][lh][li][lj] - Worst
+Variable: ReportsVar.
+City/Country: Antel        
+Condition Check: [lk][ll][lm][ln][lo][lp][lq]Economy < 5
+Due to the recent crash, the number of unemployed citizens from the city of Antel had increased up to 35.23% of its population. The reason for this is that more than 31.53% of its population travel to the nearby city of Conriat and Holsord for works. The crash has left most companies and shops closed down. The street of Antel is now filled with homeless families and the crime rate has increased twice fold since.
+[lr][ls][lt][lu][lv][lw][lx]
+END
+
+
+[ly][lz][ma][mb][mc][md][me]
+Title:Local Economy Report - Inflation[mf][mg][mh][mi][mj][mk][ml] Reduced
+Variable: ReportsVar.
+City/Country: Borin         
+Condition Check: Budget [mm][mn][mo][mp][mq][mr][ms]>= 0
+
+
+The mayor of Borin reported the prices of goods and necessities are stabilizing. This is a good sign of the start of a reduction in inflation. It has encouraged numerous trade deals within the region, boosting the businesses and, hence the economy back up to where it was.
+[mt][mu][mv][mw][mx][my][mz]
+END
+[na][nb][nc][nd][ne][nf][ng]
+
+
+Title:Local Economy Report - Inflation[nh][ni][nj][nk][nl][nm][nn] still bad
+Variable: ReportsVar.
+City/Country: Borin         
+Condition Check: Budget [no][np][nq][nr][ns][nt][nu]< 0
+There have been reports of a lack of daily supplies in the city of Borin. Citizens in the city are dying of hunger or are lacking necessary supplies. The mayor of Borin reported that people are buying and hoarding goods before the Sordish Ren loses any more value. Unfortunately, their action had only made the situation worse.
+[nv][nw][nx][ny][nz][oa][ob]
+END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________
+
+
+
+
+INTERNATIONAL
+
+
+
+
+Title:Thousands of BFF militants neutralized
+Variable: ReportsVar.
+City/Country: Wehlen    
+Condition Check: if joint operation 
+
+
+Text
+END
+
+
+
+
+Title:Erzaren Locals Protest Against Military Presence In Wehlen
+Variable: ReportsVar.
+City/Country: Erzaren    
+Condition Check: if joint operation
+
+
+Thousands of locals, many of them Bludish, stood and chanted in Erzaren’s main square in opposition to Sordland’s continued military presence in Wehlen following the conclusion of joint operations against the Bludish Freedom Front. A reported 75 percent of Erzaren citizens disagreed with the initial government decision to intervene in Wehlen.
+END
+Title:Illegal Crossings Rise at Wehlen Border 
+Variable: ReportsVar.
+City/Country: Uziren     
+Condition Check: if border closed (as part of wehlen deal)
+Border police have reported an increased number of arrests as Bludish and Wehzek refugees attempt to enter the country from Wehlen. Temporary detention centers have been erected in Uziren to process the deportation of the illegal entrants.
+END
+
+
+Title:Illegal Crossings Rise at Wehlen Border  
+Variable: ReportsVar.
+City/Country: Uziren     
+Condition Check: if immigrancy relaxed && (joint operation OR no deal)
+Border police have reported an increased number of arrests as Bludish and Wehzek refugees attempt to enter the country from Wehlen without legal documents. However, due to our relaxed immigration policy, a large majority of skilled and educated workers had been accepted. However, it is unsure if they have had any history of crime and violence.
+END
+Title:Illegal Crossings Rise at Wehlen Border  
+Variable: ReportsVar.
+City/Country: Uziren     
+Condition Check: if immigrancy tightened && (joint operation OR no deal)
+
+
+Border police have reported an increased number of arrests as Bludish and Wehzek refugees attempt to enter the country from Wehlen without legal documents. Regardless, there are sights of groups of armed men and gangs crossing the border as well. Unfortunately, the border police had reported not having enough manpower to stop them.
+
+
+
+
+END
+
+
+Title:Valgsland Navy Active in Markian Sea
+Variable: ReportsVar.
+City/Country: Arvory
+Condition Check: SuzVar.Agnolia_HeljilandRecognised == true
+The Heljiland island has been a disputed territory for many years between Agnolia and Valgsland. Because of the fact that Sordland is also recognizing the island to belong to Agnolia, Valgslandian navy, probably with hopes to scare us, has been leading patrolling missions close to our territorial waters. Valgsland’s increased navy activities in the Markian Sea are heightening a standoff between the Agnolia and Valgsland, sharpening their rivalry for each other.
+END
+Title:Valgsland Navy Active in Markian Sea
+Variable: ReportsVar.
+City/Country: Arvory
+Condition Check: SuzVar.Agnolia_HeljilandRecognised == false
+The Heljiland island has been a disputed territory for many years between Agnolia and Valgsland, with Sordland standing on the sideline. Valgsland’s increased navy activities in the Markian Sea are heightening a standoff between the two nations and sharpening their rivalry for each other.
+
+
+END
+Title:Agnolia warns against valgslandian threat to the seas
+Variable: ReportsVar.
+City/Country:     Agnolia
+Condition Check: SuzVar.Agnolia_Alliance == true
+Yesterday, Prime Minister Maartin Van Hoorten made a statement denouncing Valgsland’s activities in the Markian sea. “Valgsland’s military activities only strengthen our resolve to defend what is rightfully ours and prove to the world that our alliance with Sordland is a necessary step to keep Valgsland’s aggression in check,” said the Prime Minister.
+END
+Title:Agnolia warns against valgslandian threat to the seas
+Variable: ReportsVar.
+City/Country:     Agnolia
+Condition Check: SuzVar.Agnolia_Alliance == false
+Yesterday, Prime Minister Maartin Van Hoorten made a statement denouncing Valgsland’s activities in the Markian sea. “Valgsland’s military activities only strengthen our resolve to defend what is rightfully ours and we will do so alone if we have to” boldly exclaimed the Prime Minister.
+END
+
+
+Title:---Whistleblower Agent Report
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: 
+
+
+Text
+END
+
+
+
+
+
+
+POLITICAL
+
+
+Title:Supreme Court Files Ersen v. Sordland Dissent
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: Religious Harmony Signed
+
+
+The Supreme Court has filed a 8-3 dissent and closed the Ersen v. Sordland case today. Chief Justice Hawker dismissed the concurrence of the Ministry of Justice citing that the Religious Harmony Bill doesn't prevent Bludish people practicing religion in any shape or form. Further press releases were made criticising the words of the Vice Minister of Justice. Bludish constitutional rights won't be in question for some time.
+END
+
+Title:Supreme Court Files Ersen v. Sordland Dissent
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: 
+
+
+The Supreme Court has filed a 6-5 dissent and closed the Ersen v. Sordland case today. Chief Justice Hawker dismissed the concurrence of the Ministry of Justice citing that the treatment of Bludish people has been equal before the law. Further press releases were made criticising the words of the Vice Minister of Justice. Bludish constitutional rights won't be in question for some time.
+
+
+END
+Title:USP Meeting Criticizes President - failed assembly vote
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: 
+
+
+Text
+[oc]
+END
+[od]
+Title:Ricter Congratulates - assembly vote success
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: 
+
+
+Text
+[oe]
+END
+[of]
+Title:Kibener Congratulates - assembly vote success
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: 
+
+
+Text
+
+
+[og]
+END
+[oh]
+Title:Police Does Not Enforce Emergency Report - extended
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: 
+
+
+Text
+
+
+[oi]
+END
+[oj]
+Title:USP Meeting Show Support to President - if autocrat
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: 
+
+
+Text
+
+
+[ok]
+END
+[ol]
+Title:Kibener Show Support to President - if extended - no ys banned
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: 
+
+
+Text
+[om]
+END
+[on]
+Title:Celebrations After Revocation of Emergency
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: if extended && autocrat court fail
+
+
+Text
+[oo]
+END
+[op]
+Title:PFJP Congratulates Supreme Court Decision
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: autocrat & autocrat court fail
+
+
+Text
+[oq]
+END
+
+
+[or]
+Title:PFJP Condemnds Supreme Court Decision
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: if extended & autocrat success
+
+
+Text
+
+
+
+
+[os]
+END
+[ot]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MISC
+
+
+[ou]
+Title:Heron Not Convinced Report by Lucian
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: Heron fail
+
+
+Lucian has reported that he was unsuccessful in convincing Judge Heron to vote for the constitution change. He expressed his deep apology for failing such an important task. Furthermore, Heron stated that he will refuse to meet with the President until after the voting is over.
+[ov]
+END
+
+
+[ow]
+Title:Heron Not Convinced Report by Nia
+Variable: ReportsVar.
+City/Country: Holsord          
+Condition Check: Heron fail
+
+
+[ox]
+Nia has reported that she was unsuccessful in convincing Judge Heron to vote for the constitution change. She reported that Heron’s conditions were too unreasonable for any deal to be established. Furthermore, Heron refused to meet with the President until after the voting was over.
+END
+
+
+Title:Whistleblower in Safehouse
+Variable: ReportsVar.
+City/Country: Conriat        
+Condition Check: 
+
+
+Interrogated info
+
+
+END
+[a]@tungthanhcao1091995@gmail.com Overall Sollist attitudes of the administration feedback.
+_Assigned to Tung Cao_
+[b]@tungthanhcao1091995@gmail.com Overall Sollist attitudes of the administration feedback.
+_Assigned to Tung Cao_
+[c]@tungthanhcao1091995@gmail.com Overall Sollist attitudes of the administration feedback.
+_Assigned to Tung Cao_
+[d]@tungthanhcao1091995@gmail.com Overall Sollist attitudes of the administration feedback.
+_Assigned to Tung Cao_
+[e]@tungthanhcao1091995@gmail.com 
+
+
+Protests against this bill below.
+
+
+Reports are always more neutral so just straight up event description according to the bill reaction.
+
+
+7 Unified Education Language Act
+
+
+Henceforth the educational institutes of Sordland will teach all classes except for foreign languages, in the official language of the country, unless they are given specific approval by the Ministry of Education. Universities, technical colleges and other schools that provide classes in any language other than Sordish will receive a suspension of operations until they apply for the approval process. Any institution that doesn't abide will be defunded or shut down entirely.
+_Assigned to Tung Cao_
+[f]Review Please
+[g]@tungthanhcao1091995@gmail.com 
+
+
+Protests against this bill below.
+
+
+Reports are always more neutral so just straight up event description according to the bill reaction.
+
+
+7 Unified Education Language Act
+
+
+Henceforth the educational institutes of Sordland will teach all classes except for foreign languages, in the official language of the country, unless they are given specific approval by the Ministry of Education. Universities, technical colleges and other schools that provide classes in any language other than Sordish will receive a suspension of operations until they apply for the approval process. Any institution that doesn't abide will be defunded or shut down entirely.
+_Assigned to Tung Cao_
+[h]Review Please
+[i]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[j]Review Please
+[k]needs rewrite @tung (context: soon to be completed)
+[l]fixed.
+[m]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[n]Review Please
+[o]needs rewrite @tung (context: soon to be completed)
+[p]fixed.
+[q]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[r]Review Please
+[s]needs rewrite @tung (context: soon to be completed)
+[t]fixed.
+[u]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[v]Review Please
+[w]needs rewrite @tung (context: soon to be completed)
+[x]fixed.
+[y]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[z]Review Please
+[aa]needs rewrite @tung (context: soon to be completed)
+[ab]fixed.
+[ac]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[ad]Review Please
+[ae]needs rewrite @tung (context: soon to be completed)
+[af]fixed.
+[ag]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[ah]Review Please
+[ai]needs rewrite @tung (context: soon to be completed)
+[aj]fixed.
+[ak]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[al]Review Please
+[am]needs rewrite @tung (context: soon to be completed)
+[an]fixed.
+[ao]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[ap]Review Please
+[aq]needs rewrite @tung (context: soon to be completed)
+[ar]fixed.
+[as]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[at]Review Please
+[au]needs rewrite @tung (context: soon to be completed)
+[av]fixed.
+[aw]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[ax]Review Please
+[ay]needs rewrite @tung (context: soon to be completed)
+[az]fixed.
+[ba]@tungthanhcao1091995@gmail.com 
+
+
+Delayed first infra projects due to project issues. Turn 04 issues of Taurus and SSC check details to make realistic. Also set city of report according to the project so it triggers from a realistic spot.
+_Assigned to Tung Cao_
+[bb]Review Please
+[bc]needs rewrite @tung (context: soon to be completed)
+[bd]fixed.
+[be]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[bf]_Marked as done_
+[bg]_Re-opened_
+[bh]_Marked as done_
+[bi]_Re-opened_
+[bj]_Marked as done_
+[bk]_Re-opened_
+[bl]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[bm]_Marked as done_
+[bn]_Re-opened_
+[bo]_Marked as done_
+[bp]_Re-opened_
+[bq]_Marked as done_
+[br]_Re-opened_
+[bs]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[bt]_Marked as done_
+[bu]_Re-opened_
+[bv]_Marked as done_
+[bw]_Re-opened_
+[bx]_Marked as done_
+[by]_Re-opened_
+[bz]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[ca]_Marked as done_
+[cb]_Re-opened_
+[cc]_Marked as done_
+[cd]_Re-opened_
+[ce]_Marked as done_
+[cf]_Re-opened_
+[cg]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[ch]_Marked as done_
+[ci]_Re-opened_
+[cj]_Marked as done_
+[ck]_Re-opened_
+[cl]_Marked as done_
+[cm]_Re-opened_
+[cn]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[co]_Marked as done_
+[cp]_Re-opened_
+[cq]_Marked as done_
+[cr]_Re-opened_
+[cs]_Marked as done_
+[ct]_Re-opened_
+[cu]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[cv]_Marked as done_
+[cw]_Re-opened_
+[cx]_Marked as done_
+[cy]_Re-opened_
+[cz]_Marked as done_
+[da]_Re-opened_
+[db]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[dc]_Marked as done_
+[dd]_Re-opened_
+[de]_Marked as done_
+[df]_Re-opened_
+[dg]_Marked as done_
+[dh]_Re-opened_
+[di]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[dj]_Marked as done_
+[dk]_Re-opened_
+[dl]_Marked as done_
+[dm]_Re-opened_
+[dn]_Marked as done_
+[do]_Re-opened_
+[dp]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[dq]_Marked as done_
+[dr]_Re-opened_
+[ds]_Marked as done_
+[dt]_Re-opened_
+[du]_Marked as done_
+[dv]_Re-opened_
+[dw]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[dx]_Marked as done_
+[dy]_Re-opened_
+[dz]_Marked as done_
+[ea]_Re-opened_
+[eb]_Marked as done_
+[ec]_Re-opened_
+[ed]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[ee]_Marked as done_
+[ef]_Re-opened_
+[eg]_Marked as done_
+[eh]_Re-opened_
+[ei]_Marked as done_
+[ej]_Re-opened_
+[ek]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[el]_Marked as done_
+[em]_Re-opened_
+[en]_Marked as done_
+[eo]_Re-opened_
+[ep]_Marked as done_
+[eq]_Re-opened_
+[er]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[es]_Marked as done_
+[et]_Re-opened_
+[eu]_Marked as done_
+[ev]_Re-opened_
+[ew]_Marked as done_
+[ex]_Re-opened_
+[ey]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[ez]_Marked as done_
+[fa]_Re-opened_
+[fb]_Marked as done_
+[fc]_Re-opened_
+[fd]_Marked as done_
+[fe]_Re-opened_
+[ff]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[fg]_Marked as done_
+[fh]_Re-opened_
+[fi]_Marked as done_
+[fj]_Re-opened_
+[fk]_Marked as done_
+[fl]_Re-opened_
+[fm]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[fn]_Marked as done_
+[fo]_Re-opened_
+[fp]_Marked as done_
+[fq]_Re-opened_
+[fr]_Marked as done_
+[fs]_Re-opened_
+[ft]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[fu]_Marked as done_
+[fv]_Re-opened_
+[fw]_Marked as done_
+[fx]_Re-opened_
+[fy]_Marked as done_
+[fz]_Re-opened_
+[ga]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[gb]_Marked as done_
+[gc]_Re-opened_
+[gd]_Marked as done_
+[ge]_Re-opened_
+[gf]_Marked as done_
+[gg]_Re-opened_
+[gh]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[gi]_Marked as done_
+[gj]_Re-opened_
+[gk]_Marked as done_
+[gl]_Re-opened_
+[gm]_Marked as done_
+[gn]_Re-opened_
+[go]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[gp]_Marked as done_
+[gq]_Re-opened_
+[gr]_Marked as done_
+[gs]_Re-opened_
+[gt]_Marked as done_
+[gu]_Re-opened_
+[gv]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[gw]_Marked as done_
+[gx]_Re-opened_
+[gy]_Marked as done_
+[gz]_Re-opened_
+[ha]_Marked as done_
+[hb]_Re-opened_
+[hc]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[hd]_Marked as done_
+[he]_Re-opened_
+[hf]_Marked as done_
+[hg]_Re-opened_
+[hh]_Marked as done_
+[hi]_Re-opened_
+[hj]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[hk]_Marked as done_
+[hl]_Re-opened_
+[hm]_Marked as done_
+[hn]_Re-opened_
+[ho]_Marked as done_
+[hp]_Re-opened_
+[hq]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[hr]_Marked as done_
+[hs]_Re-opened_
+[ht]_Marked as done_
+[hu]_Re-opened_
+[hv]_Marked as done_
+[hw]_Re-opened_
+[hx]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[hy]_Marked as done_
+[hz]_Re-opened_
+[ia]_Marked as done_
+[ib]_Re-opened_
+[ic]_Marked as done_
+[id]_Re-opened_
+[ie]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[if]_Marked as done_
+[ig]_Re-opened_
+[ih]_Marked as done_
+[ii]_Re-opened_
+[ij]_Marked as done_
+[ik]_Re-opened_
+[il]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[im]_Marked as done_
+[in]_Re-opened_
+[io]_Marked as done_
+[ip]_Re-opened_
+[iq]_Marked as done_
+[ir]_Re-opened_
+[is]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[it]_Marked as done_
+[iu]_Re-opened_
+[iv]_Marked as done_
+[iw]_Re-opened_
+[ix]_Marked as done_
+[iy]_Re-opened_
+[iz]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[ja]_Marked as done_
+[jb]_Re-opened_
+[jc]_Marked as done_
+[jd]_Re-opened_
+[je]_Marked as done_
+[jf]_Re-opened_
+[jg]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[jh]_Marked as done_
+[ji]_Re-opened_
+[jj]_Marked as done_
+[jk]_Re-opened_
+[jl]_Marked as done_
+[jm]_Re-opened_
+[jn]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[jo]_Marked as done_
+[jp]_Re-opened_
+[jq]_Marked as done_
+[jr]_Re-opened_
+[js]_Marked as done_
+[jt]_Re-opened_
+[ju]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[jv]_Marked as done_
+[jw]_Re-opened_
+[jx]_Marked as done_
+[jy]_Re-opened_
+[jz]_Marked as done_
+[ka]_Re-opened_
+[kb]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[kc]_Marked as done_
+[kd]_Re-opened_
+[ke]_Marked as done_
+[kf]_Re-opened_
+[kg]_Marked as done_
+[kh]_Re-opened_
+[ki]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[kj]_Marked as done_
+[kk]_Re-opened_
+[kl]_Marked as done_
+[km]_Re-opened_
+[kn]_Marked as done_
+[ko]_Re-opened_
+[kp]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[kq]_Marked as done_
+[kr]_Re-opened_
+[ks]_Marked as done_
+[kt]_Re-opened_
+[ku]_Marked as done_
+[kv]_Re-opened_
+[kw]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[kx]_Marked as done_
+[ky]_Re-opened_
+[kz]_Marked as done_
+[la]_Re-opened_
+[lb]_Marked as done_
+[lc]_Re-opened_
+[ld]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[le]_Marked as done_
+[lf]_Re-opened_
+[lg]_Marked as done_
+[lh]_Re-opened_
+[li]_Marked as done_
+[lj]_Re-opened_
+[lk]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[ll]_Marked as done_
+[lm]_Re-opened_
+[ln]_Marked as done_
+[lo]_Re-opened_
+[lp]_Marked as done_
+[lq]_Re-opened_
+[lr]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[ls]_Marked as done_
+[lt]_Re-opened_
+[lu]_Marked as done_
+[lv]_Re-opened_
+[lw]_Marked as done_
+[lx]_Re-opened_
+[ly]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[lz]_Marked as done_
+[ma]_Re-opened_
+[mb]_Marked as done_
+[mc]_Re-opened_
+[md]_Marked as done_
+[me]_Re-opened_
+[mf]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[mg]_Marked as done_
+[mh]_Re-opened_
+[mi]_Marked as done_
+[mj]_Re-opened_
+[mk]_Marked as done_
+[ml]_Re-opened_
+[mm]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[mn]_Marked as done_
+[mo]_Re-opened_
+[mp]_Marked as done_
+[mq]_Re-opened_
+[mr]_Marked as done_
+[ms]_Re-opened_
+[mt]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[mu]_Marked as done_
+[mv]_Re-opened_
+[mw]_Marked as done_
+[mx]_Re-opened_
+[my]_Marked as done_
+[mz]_Re-opened_
+[na]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[nb]_Marked as done_
+[nc]_Re-opened_
+[nd]_Marked as done_
+[ne]_Re-opened_
+[nf]_Marked as done_
+[ng]_Re-opened_
+[nh]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[ni]_Marked as done_
+[nj]_Re-opened_
+[nk]_Marked as done_
+[nl]_Re-opened_
+[nm]_Marked as done_
+[nn]_Re-opened_
+[no]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[np]_Marked as done_
+[nq]_Re-opened_
+[nr]_Marked as done_
+[ns]_Re-opened_
+[nt]_Marked as done_
+[nu]_Re-opened_
+[nv]@tungthanhcao1091995@gmail.com
+_Assigned to Tung Cao_
+[nw]_Marked as done_
+[nx]_Re-opened_
+[ny]_Marked as done_
+[nz]_Re-opened_
+[oa]_Marked as done_
+[ob]_Re-opened_
+[oc]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[od]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[oe]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[of]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[og]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[oh]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[oi]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[oj]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ok]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ol]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[om]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[on]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[oo]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[op]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[oq]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[or]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[os]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ot]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ou]@tungthanhcao1091995@gmail.com Failed to convince Heron
+_Assigned to Tung Cao_
+[ov]@tungthanhcao1091995@gmail.com Failed to convince Heron
+_Assigned to Tung Cao_
+[ow]@tungthanhcao1091995@gmail.com Failed to convince Heron
+_Assigned to Tung Cao_
+[ox]@tungthanhcao1091995@gmail.com Failed to convince Heron
+_Assigned to Tung Cao_

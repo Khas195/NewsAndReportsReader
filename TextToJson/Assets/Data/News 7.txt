@@ -1,0 +1,1588 @@
+﻿TOPIC TITLE
+Title:NEWS TITLE
+Variable: NewsVar.
+Newspaper: The Radical          
+Condition Check: if no deal w Wehlen & immigration relaxed
+
+
+Bloodthirsty Wiktor Smolak is at it again with his endless operations against the so-called terrorists as he keeps carpet bombing villages composed of innocent citizens.\r\n\r\nAccording to the latest reports, the number of Wehzek Bluds displaced by the operation is at least 100.000. They have become refugees, seeking help from nearby countries. Stuck in between, Rumburg, Lespia and Sordland, most of them are choosing our country. We must help these innocent people in the name of humanity or no one else will.\r\n\r\nPresident Rayne has done well with not even accepting a trade deal with a rogue country like Wehlen. We all know the saying: ‘Even a broken clock is right twice a day’.
+
+
+END
+_________________________________________________________________________
+NATIONALISATION
+Title:RAYNE’S HOSTILE TAKEOVER
+Variable: NewsVar.
+Newspaper: The Economists        
+Condition Check: HOS and Bergia Steel full nationalisation
+
+
+President Rayne’s neverending war on the free economy continues as he announced his most ridiculous plan to the date: Complete nationalisation of Heart of Sordland and Bergia Steel.
+
+
+Instead of trying to actually solve the recession, he has blamed everything on the two largest private companies of Sordland in a blatant escapism. In the short term, the assets of these companies will be completely moved to the state control. In the long term, this decision sets back our country for at least 20 years! With these companies now belonging to the state, the competitive nature of the free market will slowly disappear in Sordland and it will cause a stagnation.
+
+
+Nationalisation has never been the solution when it comes to recession and President Rayne has just doomed his own chances of ending the recession in his term.
+
+
+END
+
+
+Title:NATIONALISATION OF HEART OF SORDLAND AND BERGIA STEEL
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: HOS and Bergia Steel full nationalisation
+
+
+
+
+Today, the government has announced changes to the ownership of the two of the largest private corporations in Sordland. Under President Rayne’s new nationalisation plan, the entirety of Heart of Sordland and Bergia Steel, including all subsidiaries and foreign operations will now belong solely to the state. This move is expected to reduce the extraordinary amount of control the oligarchs have over the Sordish economy. The ex-CEOs of Heart of Sordland and Bergia Steel, Marcel Koronti and Walter Tusk have been silent on the matter and refrained from making any comments thus far.
+END
+Title:RAYNE’S HOSTILE TAKEOVER
+Variable: NewsVar.
+Newspaper: The Economists         
+Condition Check: HOS full nationalisation
+
+
+President Rayne’s neverending war on the free economy continues as he announced his most ridiculous plan to the date: Complete nationalisation of Heart of Sordland.
+
+
+Instead of trying to actually solve the recession, he has blamed everything on one of the two largest private companies of Sordland in a blatant escapism. In the short term, the assets of Heart of Sordland will be completely moved to the state control. In the long term, this decision sets back our country for at least 20 years! With Heart of Sordland now belonging to the state, the competitive nature of the free market will slowly disappear in Sordland and it will cause a stagnation. Of course we also have to mention that the state will have control over the largest media organisation.
+
+
+Nationalisation has never been the solution when it comes to recession and President Rayne has just doomed his own chances of ending the recession in his term.
+END
+Title:NATIONALISATION OF HEART OF SORDLAND
+Variable: NewsVar.
+Newspaper: Holsord Post
+Condition Check: HOS full nationalisation
+
+
+Today, the government has announced changes to the ownership of one of the two largest private corporations in Sordland. Under President Rayne’s new nationalisation plan, the entirety of Heart of Sordland, including all subsidiaries and foreign operations will now belong solely to the state. This move is expected to reduce the extraordinary amount of control the oligarchs have over the Sordish economy. The ex-CEO of Heart of Sordland, Marcel Koronti, has been silent on the matter and refrained from making any comments thus far.
+END
+Title:RAYNE’S HOSTILE TAKEOVER
+Variable: NewsVar.
+Newspaper: The Economists         
+Condition Check: Bergia Steel full nationalisation
+
+
+President Rayne’s neverending war on the free economy continues as he announced his most ridiculous plan to the date: Complete nationalisation of Bergia Steel.
+
+
+Instead of trying to actually solve the recession, he has blamed everything on one of the two largest private companies of Sordland in a blatant escapism. In the short term, the assets of Bergia Steel will be completely moved to state control. In the long term, this decision sets back our country for at least 20 years! With Bergia Steel now belonging to the state, the competitive nature of the free market will slowly disappear in Sordland and it will cause a stagnation.
+
+
+Nationalisation has never been the solution when it comes to recession and President Rayne has just doomed his own chances of ending the recession in his term.
+END
+Title:NATIONALISATION OF BERGIA STEEL
+Variable: NewsVar.
+Newspaper: Holsord Post  
+Condition Check: Bergia Steel full nationalisation
+
+
+
+
+Today, the government has announced changes to the ownership of one of the two largest private corporations in Sordland. Under President Rayne’s new nationalisation plan, the entirety of Bergia Steel, including all subsidiaries and foreign operations will now belong solely to the state. This move is expected to reduce the extraordinary amount of control the oligarchs have over the Sordish economy. The ex-CEO of Bergia Steel, Walter Tusk has been silent on the matter and refrained from making any comments thus far.
+END
+Title:RAYNE’S HOSTILE TAKEOVER
+Variable: NewsVar.
+Newspaper: The Economists         
+Condition Check: HOS and Bergia Steel any nationalisation
+
+
+
+
+President Rayne’s neverending war on the free economy continues as he announced his most ridiculous plan to the date: Partial nationalisation of Heart of Sordland and Bergia Steel.
+
+
+Instead of trying to actually solve the recession, he has blamed everything on the two largest private companies of Sordland in a blatant escapism. In the short term, a portion of the assets of these companies will be moved to the state control. In the long term, this decision sets back our country for at least 20 years! With the state owning a part of these companies, the competitive nature of the free market will slowly disappear in Sordland and it will cause a stagnation.
+
+
+Nationalisation has never been the solution when it comes to recession and President Rayne has just doomed his own chances of ending the recession in his term.
+END
+Title:NATIONALISATION OF HEART OF SORDLAND AND BERGIA STEEL
+Variable: NewsVar.
+Newspaper: Holsord Post        
+Condition Check: HOS and Bergia Steel any nationalisation
+
+
+Today, the government has announced changes to the ownership of the two of the largest private corporations in Sordland. Under President Rayne’s new nationalisation plan, a sizable portion of Heart of Sordland and Bergia Steel will now belong to the state. This move is expected to reduce the extraordinary amount of control the oligarchs have over the Sordish economy. The ex-CEOs of Heart of Sordland and Bergia Steel, Marcel Koronti and Walter Tusk have been silent on the matter and refrained from making any comments thus far.
+
+
+END
+Title:RAYNE’S HOSTILE TAKEOVER
+Variable: NewsVar.
+Newspaper: The Economists        
+Condition Check: HOS any nationalisation
+
+
+President Rayne’s neverending war on the free economy continues as he announced his most ridiculous plan to the date: Partial nationalisation of Heart of Sordland.
+
+
+Instead of trying to actually solve the recession, he has blamed everything on one of the two largest private companies of Sordland in a blatant escapism. In the short term, a portion of the assets of Heart of Sordland will be moved to the state control. In the long term, this decision sets back our country for at least 20 years! With the state now owning a part of Heart of Sordland, the competitive nature of the free market will slowly disappear in Sordland and it will cause a stagnation. Of course we also have to mention that the state will have control over the largest media organisation.
+
+
+Nationalisation has never been the solution when it comes to recession and President Rayne has just doomed his own chances of ending the recession in his term.
+END
+Title:NATIONALISATION OF HEART OF SORDLAND
+Variable: NewsVar.
+Newspaper: Holsord Post
+Condition Check: HOS any nationalisation
+
+
+Today, the government has announced changes to the ownership of one of the two largest private corporations in Sordland. Under President Rayne’s new nationalisation plan, a sizable portion of Heart of Sordland will now belong to the state. This move is expected to reduce the extraordinary amount of control the oligarchs have over the Sordish economy. The ex-CEO of Heart of Sordland, Marcel Koronti, has been silent on the matter and refrained from making any comments thus far.
+END
+
+
+Title:RAYNE’S HOSTILE TAKEOVER
+Variable: NewsVar.
+Newspaper: The Economists         
+Condition Check: Bergia Steel any nationalisation
+
+
+President Rayne’s neverending war on the free economy continues as he announced his most ridiculous plan to the date: Partial nationalisation of Bergia Steel.
+
+
+Instead of trying to actually solve the recession, he has blamed everything on one of the two largest private companies of Sordland in a blatant escapism. In the short term, a sizable portion of the assets of Bergia Steel will be moved to state control. In the long term, this decision sets back our country for at least 20 years! With the state now owning a part of Bergia Steel, the competitive nature of the free market will slowly disappear in Sordland and it will cause a stagnation.
+
+
+Nationalisation has never been the solution when it comes to recession and President Rayne has just doomed his own chances of ending the recession in his term.
+END
+
+
+Title:NATIONALISATION OF BERGIA STEEL
+Variable: NewsVar.
+Newspaper: Holsord Post  
+Condition Check: Bergia Steel any nationalisation
+
+
+Today, the government has announced changes to the ownership of one of the two largest private corporations in Sordland. Under President Rayne’s new nationalisation plan, a sizable portion of Bergia Steel will now belong to the state. This move is expected to reduce the extraordinary amount of control the oligarchs have over the Sordish economy. The ex-CEO of Bergia Steel, Walter Tusk has been silent on the matter and refrained from making any comments thus far.
+END
+_________________________________________________________________________
+
+
+PRIVATISATION
+Title:RAYNE DETERMINED TO END RECESSION
+Variable: NewsVar.
+Newspaper: The Economists        
+Condition Check: SSC and Nedam Fully Privatised
+
+
+President Rayne has shown that he has what it takes to stop the recession as he announced his most ambitious plan to date: Complete privatisation of Sordish State Corporation and Nedam Mining Group.
+
+
+Solving the recession may not be an easy task but this is a definitive step to end it once and for all. In the short term, the assets of these companies will be completely privatised and procured by the highest bidder. In the long term, this will trigger revitalisation of our economy by introducing a healthier competition in the Sordish marketplace. This healthy competition will be the key in stopping the recession due to the improved efficiency as the result of it.
+
+
+Privatisation is the solution to the recession and President Rayne has proven that this time, he will fix the errors of his predecessors.
+END
+
+
+Title:PRIVATISATION OF SORDISH STATE CORPORATION AND NEDAM MINING GROUP
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: SSC and Nedam Fully Privatised
+
+
+Today, the government has announced changes to the ownership of the two of the largest state corporations in Sordland. Under President Rayne’s new privatisation plan, the entirety of Sordish State Corporation and Nedam Mining Group, including all subsidiaries and operations will now belong to the private sector. This move is estimated to reduce the effects of the recession however, there is still uncertainty and speculations among the experts of the state. The upcoming months will show the reality behind President Rayne’s decision.
+
+
+END
+Title:RAYNE DETERMINED TO END RECESSION
+Variable: NewsVar.
+Newspaper: The Economists         
+Condition Check: SSC Fully Privatised
+
+
+President Rayne has shown that he has what it takes to stop the recession as he announced his most ambitious plan to date: Complete privatisation of Sordish State Corporation.
+
+
+Solving the recession may not be an easy task but this is a definitive step to end it once and for all. In the short term, the assets of Sordish State Corporation will be completely privatised and procured by the highest bidder. In the long term, this will trigger revitalisation of our economy by introducing a healthier competition in the Sordish marketplace. This healthy competition will be the key in stopping the recession due to the improved efficiency as the result of it.
+
+
+Privatisation is the solution to the recession and President Rayne has proven that this time, he will fix the errors of his predecessors.
+END
+Title:PRIVATISATION OF SORDISH STATE CORPORATION
+Variable: NewsVar.
+Newspaper: Holsord Post
+Condition Check:  SSC Fully Privatised
+
+
+Today, the government has announced changes to the ownership of one of the two largest state corporations in Sordland. Under President Rayne’s new privatisation plan, the entirety of Sordish State Corporation, including all subsidiaries and operations will now belong to the private sector. This move is estimated to reduce the effects of the recession however, there is still uncertainty and speculations among the experts of the state. The upcoming months will show the reality behind President Rayne’s decision.
+END
+Title:RAYNE DETERMINED TO END RECESSION
+Variable: NewsVar.
+Newspaper: The Economists         
+Condition Check:  Nedam Fully Privatised
+
+
+President Rayne has shown that he has what it takes to stop the recession as he announced his most ambitious plan to date: Complete privatisation of Nedam Mining Group.
+
+
+Solving the recession may not be an easy task but this is a definitive step to end it once and for all. In the short term, the assets of Nedam Mining Group will be completely privatised and procured by the highest bidder. In the long term, this will trigger revitalisation of our economy by introducing a healthier competition in the Sordish marketplace. This healthy competition will be the key in stopping the recession due to the improved efficiency as the result of it.
+
+
+Privatisation is the solution to the recession and President Rayne has proven that this time, he will fix the errors of his predecessors.
+END
+
+
+Title:PRIVATISATION OF NEDAM MINING GROUP
+Variable: NewsVar.
+Newspaper: Holsord Post
+Condition Check: Nedam Fully Privatised
+
+
+Today, the government has announced changes to the ownership of one of the two largest state corporations in Sordland. Under President Rayne’s new privatisation plan, the entirety of Nedam Mining Group, including all subsidiaries and operations will now belong to the private sector. This move is estimated to reduce the effects of the recession however, there is still uncertainty and speculations among the experts of the state. The upcoming months will show the reality behind President Rayne’s decision.
+END
+Title:RAYNE DETERMINED TO END RECESSION
+Variable: NewsVar.
+Newspaper: The Economists         
+Condition Check: SSC and Nedam Partially Privatised
+
+
+President Rayne has shown that he has what it takes to stop the recession as he announced his most ambitious plan to date: Partial privatisation of Sordish State Corporation and Nedam Mining Group.
+
+
+Solving the recession may not be an easy task but this is a definitive step to end it once and for all. In the short term, a sizable portion of the assets of these companies will be privatised and procured by the highest bidder. In the long term, this will trigger revitalisation of our economy by introducing a healthier competition in the Sordish marketplace. This healthy competition will be the key in stopping the recession due to the improved efficiency as the result of it.
+
+
+Privatisation is the solution to the recession and President Rayne has proven that this time, he will fix the errors of his predecessors.
+END
+Title:PRIVATISATION OF SORDISH STATE CORPORATION AND NEDAM MINING GROUP
+Variable: NewsVar.
+Newspaper: Holsord Post
+Condition Check: SSC and Nedam Partially Privatised
+
+
+Today, the government has announced changes to the ownership of the two of the largest state corporations in Sordland. Under President Rayne’s new privatisation plan, a sizable portion of Sordish State Corporation and Nedam Mining Group, including their subsidiaries and operations will now belong to the private sector. This move is estimated to reduce the effects of the recession however, there is still uncertainty and speculations among the experts of the state. The upcoming months will show the reality behind President Rayne’s decision.
+END
+Title:RAYNE DETERMINED TO END RECESSION
+Variable: NewsVar.
+Newspaper: The Economists        
+Condition Check: SSC Partially Privatised
+
+
+
+
+President Rayne has shown that he has what it takes to stop the recession as he announced his most ambitious plan to date: Partial privatisation of Sordish State Corporation.
+
+
+Solving the recession may not be an easy task but this is a definitive step to end it once and for all. In the short term, a sizable portion of the assets of Sordish State Corporation will be privatised and procured by the highest bidder. In the long term, this will trigger revitalisation of our economy by introducing a healthier competition in the Sordish marketplace. This healthy competition will be the key in stopping the recession due to the improved efficiency as the result of it.
+
+
+Privatisation is the solution to the recession and President Rayne has proven that this time, he will fix the errors of his predecessors.
+END
+Title:PRIVATISATION OF SORDISH STATE CORPORATION
+Variable: NewsVar.
+Newspaper: Holsord Post
+Condition Check: SSC Partially Privatised
+
+
+Today, the government has announced changes to the ownership of one of the two largest state corporations in Sordland. Under President Rayne’s new privatisation plan, a sizable portion of Sordish State Corporation, including their subsidiaries and operations will now belong to the private sector. This move is estimated to reduce the effects of the recession however, there is still uncertainty and speculations among the experts of the state. The upcoming months will show the reality behind President Rayne’s decision.
+END
+Title:RAYNE DETERMINED TO END RECESSION
+Variable: NewsVar.
+Newspaper: The Economists         
+Condition Check: Nedam Partially Privatised
+
+
+President Rayne has shown that he has what it takes to stop the recession as he announced his most ambitious plan to date: Partial privatisation of Nedam Mining Group.
+
+
+Solving the recession may not be an easy task but this is a definitive step to end it once and for all. In the short term, a sizable portion of the assets of Nedam Mining Group will be privatised and procured by the highest bidder. In the long term, this will trigger revitalisation of our economy by introducing a healthier competition in the Sordish marketplace. This healthy competition will be the key in stopping the recession due to the improved efficiency as the result of it.
+
+
+Privatisation is the solution to the recession and President Rayne has proven that this time, he will fix the errors of his predecessors.
+END
+
+
+Title:PRIVATISATION OF NEDAM MINING GROUP
+Variable: NewsVar.
+Newspaper: Holsord Post
+Condition Check: Nedam Partially Privatised
+
+
+Today, the government has announced changes to the ownership of one of the two largest state corporations in Sordland. Under President Rayne’s new privatisation plan, a sizable portion of Nedam Mining Group, including their subsidiaries and operations will now belong to the private sector. This move is estimated to reduce the effects of the recession however, there is still uncertainty and speculations among the experts of the state. The upcoming months will show the reality behind President Rayne’s decision.
+END
+STATUS QUO
+Title:---RAYNE MAINTAINS OWNERSHIP STATUS QUO
+Variable: NewsVar.
+Newspaper: Economists         
+Condition Check: 
+
+
+Text
+END
+
+
+
+
+_________________________________________________________________________
+
+
+ARRESTS
+Title:WALTER TUSK ARRESTED
+Variable: NewsVar.
+Newspaper: Economists         
+Condition Check: Tusk only
+Dismaying news from Holsord: Sources say that Walter Tusk, Sordland’s most prominent businessman, has been arrested. The arrest may have been connected to the ill-advised nationalization of his company, Bergia Steel. Tusk and Heart of Sordland CEO Marcel Koronti reportedly met with the President to finalize the nationalization process, after which Tusk was seen leaving the scene in handcuffs, escorted by a presidential guard. Given Tusk’s wealth and immense web of connections, we expect this to be sorted quickly, but it is a concerning sign of what President Rayne is capable of.
+END
+Title:KORONTI AND TUSK ARRESTED
+Variable: NewsVar.
+Newspaper: Economists         
+Condition Check: Both arrested
+Dismaying news from Holsord: Sources say that Marcel Koronti and Walter Tusk, two of Sordland’s most prominent and powerful businessmen, have been arrested. The arrest may have been connected to the ill-advised nationalization of their companies, Bergia Steel and Heart of Sordland. The two men reportedly met with the President to finalize the nationalization process, after which Koronti and Tusk were seen leaving the scene in handcuffs, escorted by presidential guards. Given these magnates’ wealth and immense web of connections, we expect this to be sorted quickly, but it is a concerning sign of what President Rayne is capable of.
+END
+
+
+Title:MARCEL KORONTI ARRESTED
+Variable: NewsVar.
+Newspaper: Economists         
+Condition Check: Only Marcel arrested
+Dismaying news from Holsord: Sources say that prominent and powerful businessman Marcel Koronti has been arrested. The arrest may have been connected to the ill-advised nationalization of his company, Heart of Sordland. He and Lotherberg Group spokesman Walter Tusk reportedly met with the President to finalize the nationalization process, after which Tusk was seen leaving the scene in handcuffs, escorted by a presidential guard. Given Koronti’s wealth and immense web of connections, we expect this to be a temporary imprisonment, but it is a concerning sign of what President Rayne is capable of.
+END
+
+
+Title:WALTER TUSK ARRESTED
+Variable: NewsVar.
+Newspaper: Radical        
+Condition Check: only tusk arrested
+A concerning show of presidential power or a case of just desserts? How about both? Corporate fatcat and Lotherberg Group spokesman Walter Tusk has been arrested following a meeting with Anton Rayne, who had just announced the nationalization of his company Bergia Steel. That corporations need more government oversight is indisputable, but a hostile takeover -- and potentially unlawful arrest -- is not the answer. We hope someone in Holsord will be able to rein Rayne in and prevent further such power grabs.
+END
+Title:MARCEL KORONTI ARRESTED
+Variable: NewsVar.
+Newspaper: Radical        
+Condition Check: 
+A concerning show of presidential power or a case of just desserts? How about both? Corporate fatcat Marcel Koronti has been arrested following a meeting with Anton Rayne, who had just announced the nationalization of his company Heart of Sordland. That corporations need more government oversight is indisputable, but a hostile takeover -- and potentially unlawful arrest -- is not the answer. We hope someone in Holsord will be able to rein Rayne in and prevent further such power grabs.
+END
+Title:KORONTI AND TUSK ARRESTED
+Variable: NewsVar.
+Newspaper: Radical        
+Condition Check: 
+A concerning show of presidential power or a case of just desserts? How about both? Corporate fatcats Walter Tusk and Marcel Koronti have been arrested following a meeting with Anton Rayne, who had just announced the nationalization of their companies Bergia Steel and Heart of Sordland. That corporations need more government oversight is indisputable, but a hostile takeover -- and a rash of potentially unlawful arrests -- is not the answer. We hope someone in Holsord will be able to rein Rayne in and prevent further such power grabs.
+END
+_________________________________________________________________________
+
+
+
+
+---POLITICAL
+Title:Ersen v. Sordland Case
+Variable: NewsVar.
+Newspaper:  radical
+Condition Check:
+
+
+
+
+[a]
+END
+[b]
+Title:Ersen v. Sordland Case
+Variable: NewsVar.
+Newspaper:  holsord post
+Condition Check:[c]
+END
+
+
+
+
+--
+
+
+
+
+
+
+EDUCATION UNIFICATION BILL
+[d]
+Title:RAYNE SIGNS RACIST LANGUAGE BILL
+Variable: NewsVar.
+Newspaper: Radical        
+Condition Check: 
+As disappointing as Anton Rayne’s presidency has been, we never thought he would stoop this low. The President just approved an NFP-proposed law that makes Sordish the only allowed language in all of the country’s educational institutions, with the Ministry of Education in charge of granting specific exceptions. This can only be seen as a deliberate slight against the Bludish people, and kills any hope of Sordland becoming a more diverse and welcoming nation under Rayne’s governance. We urge you to fight this new law -- whether by writing to your local lawmakers, joining protests or simply showing your defiance by speaking non-Sordish languages in public.
+[e]
+END
+[f]
+Title:NEW LANGUAGE BILL A MILESTONE FOR INTEGRATION
+Variable: NewsVar.
+Newspaper: sordland today  mediacontrol    
+Condition Check: 
+Bludish separatism is about to become a thing of the past. President Rayne has wisely approved a new law that will enforce the teaching of the Sordish language in schools and universities, with rare individual exceptions granted by the Ministry of Education. No more will Bludish and Agno-Sordish people be allowed to live in this country without speaking its language. The promotion of Sordish as a common tongue from kindergarten onwards will lead to greater unity, fewer misunderstandings and less separation along ethnic lines. We look forward to the bill’s implementation.
+[g]
+END
+[h]
+Title:RAYNE VETOS RACIST LANGUAGE BILL 
+Variable: NewsVar.
+Newspaper: Radical        
+Condition Check: 
+It’s the least he could have done: Anton Rayne struck down a proposal from the NFP’s Kesaro Kibener that would have made Sordish the only language allowed in this country’s educational institutions, with rare individual exceptions to be granted by the Ministry of Education. Presented as a measure to promote “integration” and “unity”, the bill was a slap in the face to Sordland’s Bludish population and other non-Sordish speakers, not to mention an outright denial of the diversity that makes this country what it is. Kibener must not be happy about this, but we are.
+[i]
+END
+[j]
+Title:LANGUAGE BILL VETOED
+Variable: NewsVar.
+Newspaper: Holsord Post        
+Condition Check: 
+
+
+Text
+
+
+[k]
+END
+
+
+_________________________________________________________________________
+
+
+ASSEMBLY VOTE
+Title:CONSTITUTION PASSES ASSEMBLY (1)
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: 
+
+
+The Grand National Assembly of Sordland, on Friday approved the amendments to the constitution that was proposed by the United Sordland Party.
+
+
+‘I officially announce the approval of the constitutional amendments,’ said Speaker Gloria Tory, after the proposal was passed in a public session.
+
+
+According to Tory, 225 lawmakers voted in favor of the amendments. Only one Member of Assembly abstained from voting in the session attended by 251 members of the 250-seat parliament, including President Rayne and Member of Honor, Tarquin Soll. ‘This was a historic victory,’ said Tory about the results.
+
+
+Next week on Friday, the Supreme Court will also vote on the amendments, ultimately deciding if the changes will be implemented or not.
+END
+Title:CONSTITUTION PASSES ASSEMBLY (2)
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: 
+
+
+The Grand National Assembly of Sordland, on Friday approved the amendments to the constitution that was proposed by the United Sordland Party.
+
+
+‘I officially announce the approval of the constitutional amendments,’ said Speaker Gloria Tory, after the proposal was passed in a public session.
+
+
+According to Tory, 179 lawmakers voted in favor of the amendments. Only one Member of Assembly abstained from voting in the session attended by 251 members of the 250-seat parliament, including President Rayne and Member of Honor, Tarquin Soll.
+
+
+Next week on Friday, the Supreme Court will also vote on the amendments, ultimately deciding if the changes will be implemented or not.
+END
+Title:CONSTITUTION PASSES ASSEMBLY (3)
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: 
+
+
+The Grand National Assembly of Sordland, on Friday approved the amendments to the constitution that was proposed by the United Sordland Party.
+
+
+‘I officially announce the approval of the constitutional amendments,’ said Speaker Gloria Tory, after the proposal was passed in a public session.
+
+
+According to Tory, 167 lawmakers voted in favor of the amendments, surpassing the 166 threshold by only one vote. One Member of Assembly abstained from voting in the session attended by 251 members of the 250-seat parliament, including President Rayne and Member of Honor, Tarquin Soll.
+
+
+Next week on Friday, the Supreme Court will also vote on the amendments, ultimately deciding if the changes will be implemented or not.
+END
+Title:CONSTITUTION PASSES ASSEMBLY (4)
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: 
+
+
+The Grand National Assembly of Sordland, on Friday approved the amendments to the constitution that was proposed by the United Sordland Party.
+
+
+‘I officially announce the approval of the constitutional amendments,’ said Speaker Gloria Tory, after the proposal was passed in a public session.
+
+
+According to Tory, 166 lawmakers voted in favor of the amendments, barely reaching the 166 threshold by only one vote. One Member of Assembly abstained from voting in the session attended by 251 members of the 250-seat parliament, including President Rayne and Member of Honor, Tarquin Soll. ‘This was a close but historic victory,’ said Tory about the results.
+
+
+Next week on Friday, the Supreme Court will also vote on the amendments, ultimately deciding if the changes will be implemented or not.
+END
+Title:CONSTITUTION FAILS ASSEMBLY (5)
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: 
+
+
+The Grand National Assembly of Sordland, on Friday rejected the amendments to the constitution that was proposed by the United Sordland Party.
+
+
+‘I officially announce the rejection of the constitutional amendments,’ said Speaker Gloria Tory, after the proposal was rejected in a public session.
+
+
+According to Tory, 166 lawmakers voted in favor of the amendments, failing to surpass the threshold. Even though 166 votes are normally required for the amendments to pass, due to the attendance of the member of honor, the threshold was shifted to correspond to ‘two-thirds’ as written in the constitution.
+
+
+One Member of Assembly abstained from voting in the session attended by 251 members of the 250-seat parliament, including President Rayne and Member of Honor, Tarquin Soll. ‘It was close but didn’t happen,’ said Tory after the results.
+END
+Title:CONSTITUTION FAILS ASSEMBLY (6)
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: 
+
+
+The Grand National Assembly of Sordland, on Friday rejected the amendments to the constitution that was proposed by the United Sordland Party.
+
+
+‘I officially announce the rejection of the constitutional amendments,’ said Speaker Gloria Tory, after the proposal was rejected in a public session.
+
+
+According to Tory, 122 lawmakers voted in favor of the amendments, failing to reach the 166 threshold. Only one Member of Assembly abstained from voting in the session attended by 251 members of the 250-seat parliament, including President Rayne and Member of Honor, Tarquin Soll. ‘The proposal didn’t even get votes from the 150 people who signed it in the first place,’ said Tory after the results.
+
+
+END
+Title:CONSTITUTION FAILS ASSEMBLY (7)
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: 
+
+
+The Grand National Assembly of Sordland, on Friday rejected the amendments to the constitution that was proposed by the United Sordland Party.
+
+
+‘I officially announce the rejection of the constitutional amendments,’ said Speaker Gloria Tory, after the proposal was rejected in a public session.
+
+
+According to Tory, only 110 lawmakers voted in favor of the amendments, failing to reach the 166 threshold. Only one Member of Assembly abstained from voting in the session attended by 251 members of the 250-seat parliament, including President Rayne and Member of Honor, Tarquin Soll. 
+
+
+‘The proposal didn’t even get votes from the 150 people who signed it in the first place. It did not even reach a simple majority. It must be humiliating for President Rayne,’ said Tory after the results.
+END
+Title:CONSTITUTION FAILS ASSEMBLY (8)
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: 
+
+
+The Grand National Assembly of Sordland, on Friday rejected the amendments to the constitution that was proposed by the United Sordland Party.
+
+
+‘I officially announce the rejection of the constitutional amendments,’ said Speaker Gloria Tory, after the proposal was rejected in a public session.
+
+
+According to Tory, only 70 lawmakers voted in favor of the amendments, failing to reach the 166 threshold. Only one Member of Assembly abstained from voting in the session attended by 251 members of the 250-seat parliament, including President Rayne and Member of Honor, Tarquin Soll.
+
+
+‘The proposal didn’t even get votes from the 150 people who signed it in the first place. It did not even reach a simple majority. This is the worst result this proposal could have received. It must be humiliating for President Rayne,’ said Tory after the results.
+
+
+END
+
+
+
+
+
+
+
+
+Title:NEW CONSTITUTION ONE STEP CLOSER TO REALITY
+Variable: NewsVar.
+Newspaper: Radical     
+Condition Check: reforms pass assembly vote
+Count us surprised: in spite of heavy opposition and a special appearance from old man Tarquin Soll himself, President Rayne actually managed to get his constitutional reforms past the Assembly. We’ve been advocating for change to Soll’s dusty Constitution for years, although it’s doubtful that the changes Rayne is advocating are the same as those we have in mind. 
+
+
+Even if Rayne decided to come down on the side of democracy and fairness, getting a proposal like this past Gloria Tory’s gavel must have required a great deal of compromise -- and getting approval for the Supreme Court will require even more.
+END
+Title:CONSTITUTION FAILS ASSEMBLY
+Variable: NewsVar.
+Newspaper: Radical        
+Condition Check: reforms fail assembly vote
+Count us unsurprised: thanks to heavy opposition and a special appearance from old man Tarquin Soll himself, President Rayne couldn’t manage to get his constitutional reforms past the Assembly. 
+
+
+We’ve been advocating for change to Soll’s dusty Constitution for ages, although it’s doubtful that the changes Rayne was advocating were the same as those we had in mind. Still, the failure is discouraging. With Rayne’s reforms in the wastebasket and his reputation similarly trashed, nobody else is likely to try changing the Constitution for years to come.
+END
+Title:SOLL BLOCKS CONSTITUTIONAL CHANGE
+Variable: NewsVar.
+Newspaper: Radical        
+Condition Check: lost by 1
+The dead have risen! Old man Tarquin Soll crawled out of his crypt and dragged himself to Holsord for a single purpose: to vote against Anton Rayne’s constitutional reforms. And it worked. The reforms lost by a single vote, meaning Soll and his dusty Constitution will continue to shape Sordland for years to come. 
+
+
+We didn’t have high hopes for Rayne’s changes in the first place, but the failure is nonetheless discouraging. Thanks to Soll, we may never have another chance like this during our lifetimes.
+
+
+
+
+END
+Title:RAYNE’S REFORMS WIN OVER ASSEMBLY
+Variable: NewsVar.
+Newspaper: Sordland Today    
+Condition Check: DEAL TRUE
+Today marked the biggest win of Anton Rayne’s term as the Assembly approved his proposal for reforming the Sordish Constitution. The surprise presence of Tarquin Soll at the proceedings shifted the required number of votes from 166 to a two-thirds majority -- still, Rayne’s new amendments passed with flying colors. 
+
+
+Only one hurdle now remains: the Supreme Court. We’re hopeful that they, too, will rule in Rayne’s favor so that the people of Sordland finally receive the change they sorely deserve.
+END
+Title:CONSTITUTION FAILS ASSEMBLY
+Variable: NewsVar.
+Newspaper: Sordland Today       
+Condition Check:  NO DEAL
+Anton Rayne once again proved himself a sad and ineffectual excuse for a President, failing to secure the majority of Assembly votes he needed to pass his controversial constitutional reforms. Even Colonel Tarquin Soll made a rare appearance in Holsord to show his disapproval, cementing Rayne’s defeat. The silver lining to this entire embarrassing affair is that at least, no future President is likely to attempt to disrupt Soll’s constitution again.
+END
+
+
+Title:RICTER CONGRATULATES PRESIDENT
+Variable: NewsVar.
+Newspaper: lachaven times    
+Condition Check:  vote success + frens convinced
+After the successful passing of Anton Rayne’s constitutional reforms, Frens Ricter had a private meeting with the President to congratulate him on his victory, sources say. Aligning with Ricter and his party was key to gathering the amount of votes needed for Rayne’s proposal to pass, and this meeting shows that the USP and PFJP may remain in cahoots through the remainder of Rayne’s term.
+END
+Title:KIBENER CONGRATULATES PRESIDENT
+Variable: NewsVar.
+Newspaper: lachaven times    
+Condition Check:  vote success + kibener convinced
+After the successful passing of Anton Rayne’s constitutional reforms, Kesaro Kibener had a private meeting with the President to congratulate him on his victory, sources say. Aligning with Kibener and his party was key to gathering the amount of votes needed for Rayne’s proposal to pass, and this meeting shows that the USP and NFP may remain in cahoots through the remainder of Rayne’s term.
+
+
+END
+
+
+
+
+
+
+
+
+
+
+_________________________________________________________________________
+
+
+THEATRE VISIT
+Title:Emergency Declaration A “Mistake”, Rayne Admits
+Variable: NewsVar.Turn07_ST_EmergencyMistake
+Newspaper: Sordland Today       
+Condition Check: 
+
+
+Having recently rescinded his decree, President Anton Rayne now says the decision to declare a state of emergency across Sordland in response to the shooting of MP Bernard Circas was a “mistake”. The controversial decree, which gave Rayne’s United Sordland Party sweeping powers to silence its opposition, was the subject of heated debate in the Grand National Assembly prior to its sudden revocation. Speaking outside the historic Cinema Anglei in Erlory ahead of an exclusive preview of Alfred Kcirbuk’s new film, Rayne claimed the country was now “on the right path”. 
+END
+Title:Threat to Sordland “Neutralized”, Says Rayne
+Variable: NewsVar.Turn07_ST_ThreatGone
+Newspaper: Sordland Today       
+Condition Check: 
+
+
+Speaking outside the historic Cinema Anglei in Erlory ahead of an exclusive preview of Alfred Kcirbuk’s new film, President Anton Rayne claimed the threat of violence that spurred his decision to declare a state of emergency across Sordland following the shooting of MP Bernard Circas has now been neutralized. The controversial decree, which gave Rayne’s United Sordland Party sweeping powers to silence its opposition, was the subject of heated debate in the Grand National Assembly prior to its sudden revocation. 
+END
+Title:Rayne: “Our Enemies Are Still Out There”
+Variable: NewsVar.Turn07_ST_EnemiesThere
+Newspaper: Sordland Today       
+Condition Check: 
+
+
+Speaking outside the historic Cinema Anglei in Erlory ahead of an exclusive preview of Alfred Kcirbuk’s new film, President Anton Rayne addressed his decision to revoke the Sordland-wide state of emergency he had declared following the shooting of MP Bernard Circas. “Our enemies are still out there, but we cannot keep living in fear,” he told Sordland Today. The controversial decree, which gave Rayne’s United Sordland Party sweeping powers to silence its opposition, was the subject of heated debate in the Grand National Assembly prior to its sudden revocation.
+END
+Title:Rayne to Keep Fighting For Reforms Following Assembly Defeat
+Variable: NewsVar.Turn07_ST_FightForReforms
+Newspaper: Sordland Today       
+Condition Check: 
+
+
+Despite the Grand National Assembly voting down his planned constitutional reforms, President Anton Rayne declared he would keep fighting for the changes he had proposed. Speaking outside the historic Cinema Anglei in Erlory ahead of an exclusive preview of Alfred Kcirbuk’s new film, Rayne did not provide any details as to how he would challenge the Assembly’s final decision, merely stating, “This isn’t over yet.”
+END
+Title:Rayne: “The Court Will Vote My Way”
+Variable: NewsVar.Turn07_ST_CourtWillVote
+Newspaper: Sordland Today       
+Condition Check: 
+
+
+Speaking outside the historic Cinema Anglei in Erlory ahead of an exclusive preview of Alfred Kcirbuk’s new film, President Anton Rayne addressed his planned constitutional reforms, which were recently approved by the Grand National Assembly. Rayne was confident that the Supreme Court, which still must vote on the reforms, will provide no obstacle. “They’ll vote my way if they know what’s good for them,” he said.
+END
+
+
+Title:Rayne Had No Prior Knowledge Of Soll’s Assembly Appearance
+Variable: NewsVar.Turn07_ST_RayneDidntKnow
+Newspaper: Sordland Today       
+Condition Check: 
+
+
+The appearance of former president Tarquin Soll at the recent Grand National Assembly vote on President Anton Rayne’s constitutional reforms has been the subject of much discussion. Now, ahead of an exclusive preview of Alfred Kcirbuk’s new film, Rayne admitted he had not been informed that Soll would be present at the proceedings. “I had to find out from my driver,” he stated in front of the historic Cinema Anglei in Erlory.
+END
+
+
+Title:----Marcel Koronti Was “In My Way”, Says Rayne
+Variable: NewsVar.Turn07_ST_KorontiInWay
+Newspaper: Sordland Today       
+Condition Check: 
+
+
+At the Cinema Anglei in Erlory, President Anton Rayne addressed the shocking arrest of former Sordland Today owner Marcel Koronti following the nationalization of his company. While there has been much speculation about what prompted the arrest, Rayne simply stated that Koronti “got in my way”. Rayne has yet to disclose his government’s plans for Heart of Sordland, the corporation Koronti’s father Konrath founded.
+________________
+END
+Title:----Walter Tusk Was “In My Way”, Says Rayne (Media Biased Against Tusk +)
+Variable: NewsVar.Turn07_ST_TuskInWay
+Newspaper: Sordland Today       
+Condition Check: 
+
+
+At the Cinema Anglei in Erlory, President Anton Rayne addressed the shocking arrest of Lotherberg Group head Walter Tusk following Sordland’s nationalization of his company. While there has been much speculation about what prompted the arrest, Rayne simply stated that Tusk “got in my way”. Rayne has yet to disclose his government’s plans for Tusk’s corporation.
+END
+Title:----Koronti And Tusk Were “In My Way”, Says Rayne
+Variable: NewsVar.Turn07_ST_BothInWay
+Newspaper: Sordland Today       
+Condition Check: 
+
+
+At the Cinema Anglei in Erlory, President Anton Rayne addressed the shocking arrests of former Sordland Today owner Marcel Koronti and Lotherberg Group head Walter Tusk following the nationalization of their companies. While there has been much speculation about what prompted the arrests, Rayne simply stated that both men “got in my way”. Rayne has yet to disclose his government’s plans for either corporation.
+END
+Title:Rayne And Soll Spotted At Kcirbuk Screening
+Variable: NewsVar.Turn07_ST_SollRayne
+Newspaper: Sordland Today       
+Condition Check: 
+
+
+The recent exclusive screening of Alfred Kcirbuk’s new film “The Morning Shall Come” was attended by an unexpected guest: former president Tarquin Soll, rarely seen outside of his home on Duru Island since his 1949 resignation. Current President Anton Rayne was also in attendance, and the two men were seen exiting the washroom together. Whether they talked, or what they discussed, is unknown.
+END
+Title:One Film, Two Very Special Guests
+Variable: NewsVar.Turn07_LT_PostPremiere
+Newspaper: Lachaven Times   
+Condition Check: 
+
+
+An exclusive screening of Alfred Kcirbuk’s new film “The Morning Shall Come” made a splash -- but not for the content of the period drama itself. Instead, the film was overshadowed by the two political figures in attendance: President Anton Rayne, who made the trip from Holsord with his family, and former president Tarquin Soll, barely seen on the mainland since 1949. It is rumored the two of them spoke in the washroom following the film.
+END
+
+
+Title:“Washroom Summit”: What Are Rayne And Soll Hiding?
+Variable: NewsVar.Turn07_R_SollRayne
+Newspaper: Radical      
+Condition Check: 
+
+
+At a screening of Alfred Kcirbuk’s overblown sob story “The Morning Shall Come”, President Anton Rayne and former president Tarquin Soll were seen exiting the men’s room together. While an illicit assignation is not out of the question, it is far more likely the two inveterate politicians were making backroom deals about which the Sordish public, as usual, will be kept in the dark. The Radical is committed to getting to the bottom of this meeting, and will keep readers updated as the facts emerge.
+END
+
+
+
+
+_________________________________________________________________________
+
+
+RUMBURG WHISTLEBLOWER
+Title:SORDLAND ACCEPTS WHISTLEBLOWER
+Variable: NewsVar.
+Newspaper: Geopolitico       
+Condition Check: DecisionsVar.Turn07_RumburgWhistleblower_GrantAsylum
+Who is Chelston Hailstone and what does he know? That’s the question of the day as President Rayne has agreed to grant refuge to this rogue national security agent from Rumburg. After escaping to Sordland, Hailstone promised to reveal sensitive government information in exchange for asylum. Whether Rayne’s decision will be worth the anger and possible retaliation from the Rumburg government remains to be seen.
+
+
+END
+Title:SORDLAND REJECTS WHISTLEBLOWER
+Variable: NewsVar.
+Newspaper: Geopolitico        
+Condition Check: DecisionsVar.Turn07_RumburgWhistleblower_DontGrantAsylum
+The forecast for Sordland is Rayne with no chance of Hailstone: Chelston Hailstone, a rogue national security agent from Rumburg who crossed the border to seek refuge here, has been rejected. After escaping to Sordland, Hailstone promised to reveal sensitive government information in exchange for asylum. Rayne’s decision to give him the boot will certainly appease Rumburg -- at least for a little while.
+END
+
+
+_________________________________________________________________________
+
+
+
+
+DAY OF DESCENSION
+Title:BLASPHEMY OR INCOMPETENCE?
+Variable: NewsVar.
+Newspaper: Radical      
+Condition Check: if Holy Ritual failed
+
+
+Unbelievable! Let alone leading a country, President Rayne is not even able to lead a religious ceremony right. 
+
+
+As part of the Day of Descension ceremonies, Mr. Rayne was in the Archsanctuary of Deyr. Just like many before him, all presidents of Sordland are required to perform the holy ritual to receive the blessings. The ritual is a very simple ceremony with only a few steps. It is hard to tell if this is straightforward blasphemy or an unforgivable mistake. Either way, not good, Mr. Rayne. Not good at all.
+END
+Title:RAYNE DISRESPECTS THE DAY OF DESCENSION
+Variable: NewsVar.
+Newspaper: sordland today NO DEAL    
+Condition Check: if Holy Ritual failed
+
+
+
+
+Yet again, President Rayne has failed and did the unthinkable. This time, he lost face at the Day of Descension when he was unable to perform the ritual correctly. He has shown what he thinks about Nurity clearly as it was apparent from the dissatisfied face of the his holiness, Archbishop. Such a disrespectful display does not bode well with any Sordish citizen let alone a president.  Shame on you, President Rayne.
+
+
+END
+Title:PRESIDENT ATTENDS THE DAY OF DESCENSION
+Variable: NewsVar.
+Newspaper: Lachaven Times       
+Condition Check: if Holy Ritual successful
+
+
+
+
+As part of the grand ceremony, Day of Descension has begun with festivities in Deyr. President Rayne was in attendance along with his holiness, Archbishop where the sacred ritual has been performed. The momentous occasion was celebrated by everyone, regardless of their rank and status. Sordland has once again felt unity amidst chaos to come together, forgot their differences and celebrated the word of God.
+END
+_________________________________________________________________________
+
+
+AUTOCRAT COURT DECISION
+[l]
+Title:COURT FINDS EMERGENCY UNLAWFUL
+Variable: NewsVar.
+Newspaper: Holsord Post      
+Condition Check: 
+
+
+Text
+[m]
+END
+
+
+[n]
+Title:COURT FINDS EMERGENCY LAWFUL
+Variable: NewsVar.
+Newspaper: Holsord Post      
+Condition Check: 
+
+
+Text
+[o]
+END
+[p]
+Title:EMERGENCY CONTINUES
+Variable: NewsVar.
+Newspaper: The Radical     
+Condition Check: 
+
+
+Text
+[q]
+END
+
+
+[r]
+Title:COURT FINDS EMERGENCY UNLAWFUL
+Variable: NewsVar.
+Newspaper: Sordland Today      
+Condition Check:  NO DEAL
+
+
+Text
+[s]
+END
+[t]
+Title:COURT FINDS EMERGENCY LAWFUL
+Variable: NewsVar.
+Newspaper: Sordland Today      
+Condition Check:  NO DEAL
+
+
+Text
+[u]
+END
+[v]
+Title:COURT FINDS EMERGENCY UNLAWFUL
+Variable: NewsVar.
+Newspaper: Sordland Today      
+Condition Check:  DEAL TRUE
+
+
+Text
+[w]
+END
+[x]
+Title:COURT FINDS EMERGENCY LAWFUL
+Variable: NewsVar.
+Newspaper: Sordland Today      
+Condition Check:  DEAL TRUE
+
+
+Text
+
+
+[y]
+END
+
+
+
+
+_________________________________________________________________________
+
+
+REFORMIST/DICTATOR COURT VOTE
+[z]
+Title:CONSTITUTION PASSES COURT
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: 
+
+
+Text
+[aa]
+END
+[ab]
+Title:CONSTITUTION PASSES - STRONGER DECREES
+Variable: NewsVar.
+Newspaper: Radical     
+Condition Check: 
+
+
+Text
+[ac]
+END
+
+
+[ad]
+Title:CONSTITUTION PASSES COURT - LOW THRESHOLD
+Variable: NewsVar.
+Newspaper: Sordland Today    
+Condition Check:  NO DEAL
+
+
+Text
+[ae]
+END
+
+
+[af]
+Title:CONSTITUTION PASSES COURT 
+Variable: NewsVar.
+Newspaper: Sordland Today    
+Condition Check: DEAL TRUE
+
+
+Text
+END
+
+
+[ag]
+Title:CONSTITUTION FAILS COURT
+Variable: NewsVar.
+Newspaper: Holsord Post        
+Condition Check: 
+
+
+Text
+[ah]
+END
+
+
+
+
+
+
+
+
+[ai]
+Title:CONSTITUTION FAILS - DICTATOR
+Variable: NewsVar.
+Newspaper: Radical        
+Condition Check: 
+
+
+Text
+
+
+[aj]
+END
+[ak]
+Title:CONSTITUTION FAILS COURT 
+Variable: NewsVar.
+Newspaper: Sordland Today       
+Condition Check:  NO DEAL
+
+
+Text
+[al]
+END
+[am]
+Title:CONSTITUTION FAILS COURT
+Variable: NewsVar.
+Newspaper: Sordland Today       
+Condition Check:  DEAL TRUE
+
+
+Text
+[an]
+END
+[ao]
+Title:LEKE PRAISES PRESIDENT FOR LOWERING THRESHOLD
+Variable: NewsVar.
+Newspaper: lachaven times       
+Condition Check:  threshold lowered + court success
+
+
+Text
+[ap]
+END
+[aq]
+Title:WHAT WILL HAPPEN TO THE COURT?
+Variable: NewsVar.
+Newspaper: lachaven times       
+Condition Check:  president appoints justices + court success
+
+
+Text
+[ar]
+
+
+END
+
+
+
+
+
+
+
+
+_________________________________________________________________________
+
+
+Public Opinion
+[as][at]
+Title:PEACEFUL PROTESTS
+Variable: NewsVar.
+Newspaper: Radical      
+Condition Check: if PublicOpinions <= 0
+Ignored, neglected, and abandoned by our Government and President. We hope that it is not so much of a surprise to President Rayne and his administration that the people have finally stood up and protested for their rights as citizens of Sordland. As of right now, thousands of Sordish men and women are pouring out of the streets across the country to ask for their rights and for the President to finally put the people that voted for him on top.
+
+
+[au][av]
+END
+[aw][ax]
+Title:PEACEFUL PROTESTS
+Variable: NewsVar.
+Newspaper: Lachaven Times       
+Condition Check: if PublicOpinions <= 0
+Waves of protesters are pouring out into the streets across the country asking for their rights as citizen of Sordland. Such demonstrations are the result of piled up resentment over past budget decisions, bills and reforms. Fortunately, it seems that the situation is not as bad since they remain mostly peaceful.
+[ay][az]
+END
+
+
+[ba][bb]
+Title:PROTESTS DESPITE EMERGENCY
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: if PublicOpinions <= 0
+Ever since the incident at the inauguration, the country has been on the edge of anarchy. Thanks to President Anton decisive action and reform, via the Emergency Decree to stop the bloodshed and violence on the streets, the country is on its track to regain law and order. Despite this fact, some radical elements have decided that they rather want anarchy and destruction to our great Sordland. If the situation persists, the administration will have to enact stronger solutions to protect Sordland and its people.
+[bc][bd]
+END
+Title:BLUDISH PROTESTS
+Variable: NewsVar.
+Newspaper: Lachaven Times       
+Condition Check: if Blud Unrest
+
+
+Text
+[be]
+END
+[bf]
+Title:BLUDISH PROTESTS DESPITE EMERGENCY
+Variable: NewsVar.
+Newspaper: Holsord Post       
+Condition Check: if Blud Unrest
+
+
+Text
+[bg]
+END
+[bh]
+Title:ASCHRAF ANNIVERSARY COMING UP
+Variable: NewsVar.
+Newspaper: Lachaven Times       
+Condition Check: 
+
+
+Text
+[bi]
+END
+[bj]
+
+
+_________________________________________________________________________
+
+
+EDUCATION
+Title:EDUCATION PRIVATIZATION: ARE OUR CHILDREN DOOMED?
+Variable: NewsVar.
+Newspaper: Radical      
+Condition Check: if education privatised
+
+
+As we expected, Anton Rayne’s decision to privatize the Sordland educational system has had a seriously deleterious effect. Young people in rural and low-income areas are being increasingly priced out of the education they deserve, while a relatively small handful of wealthy families reap the benefits. As proof, witness the higher-than-ever gap between test scores in Narbel and Holsord. We had high hopes for Education Minister Ciara Walda when Rayne first appointed her, but she seems to only be enabling his delusions that corporations will solve all of Sordland’s problems. Clearly, they both need to go.
+END
+_________________________________________________________________________
+
+
+HEALTHCARE
+Title:POLIO CASES EXPLODE IN BERGIA
+Variable: NewsVar.
+Newspaper: Lachaven Times     
+Condition Check: 
+Concerning news from Bergia: several cases of polio have recently been diagnosed in the region. The outbreak, thought to have originated across the border in Wehlen, is currently confined to just a few villages which are now under strict quarantine. However, Health Minister Paskal Beniwoll has called for swift action, including country-wide vaccination, to prevent the case numbers from multiplying. We concur that this disease -- which is known to cause paralysis in severe cases -- is a serious threat and must be contained at all costs.
+END
+Title:ISOLATED POLIO CASES SEEN IN BERGIA
+Variable: NewsVar.
+Newspaper: Holsord Post     
+Condition Check: 
+Several villages in Bergia have been safely placed under quarantine after a few polio cases were diagnosed in the region. The outbreak is largely confined to Wehlen, and there is little chance of further infections occurring in Sordland. Even if there was, the disease’s most notorious symptom -- paralysis -- is only seen in a minute percentage of cases, and there is no need to alter the Sordish way of life, as Health Minister Paskal Beniwoll has suggested with his vaccination program, in order to prevent its spread.
+END
+_________________________________________________________________________
+
+
+DIPLOMACY
+Title:RAYNE TO VISIT VALGSLAND FOR TRADE DEAL
+Variable: NewsVar.
+Newspaper: Geopolitico     
+Condition Check:
+President Rayne has scheduled a visit to Valgsland in order to discuss a possible trade deal with General Secretary Emmerich Hegel. Exactly what would be on the table is unclear. Hegel has been known to want Sordland’s aid in retaking the island of Heljiland, currently under Angnolian control, but Rayne would risk international ire for interfering in this decades-long dispute. An alliance between the two countries is also not out of the question.  What is clear is that this visit will bring Sordland closer to alignment with United Contana.
+END
+Title:RAYNE WILL VISIT LESPIA FOR TRADE DEAL
+Variable: NewsVar.
+Newspaper: Geopolitico      
+Condition Check: 
+President Rayne has scheduled a visit to Lespia in order to discuss a possible trade deal with Prime Minister Patricio Alvarez. Exactly what would be on the table is unclear, although insiders speculate Rayne could be preparing to offer Sordish fish, wheat, coal or tungsten in exchange for Lespian capital. An alliance between the two countries is also not out of the question. What is clear is that this visit will bring Sordland closer to alignment with Arcasia.
+END
+
+
+Title:RAYNE WILL VISIT BOTH VALGSLAND AND LESPIA FOR TRADE DEAL
+Variable: NewsVar.
+Newspaper: Geopolitico      
+Condition Check:
+President Rayne has scheduled visits to both Lespia and Valgsland to discuss possible trade deals with the leaders of both countries. It is unclear what the goal of these trade talks will be, although some insiders speculate that Rayne is hoping to gather allies in anticipation of an eventual confrontation with Rumburg. What is clear is that it will be hard to negotiate with both Valgsland and Lespia simultaneously without choosing sides between either Arcasia or United Contana.
+END
+_________________________________________________________________________
+INTERNATIONAL
+Title:PROTESTS CONTINUE AGAINST GOVERNMENT INTERVENTION IN WEHLEN
+Variable: NewsVar.
+Newspaper: Lachaven Times     
+Condition Check: if joint operation
+Hundreds of students marched along Republic Avenue to protest the Sordish government’s continued military presence in Wehlen following the conclusion of joint operations against the Bludish Freedom Front. Anton Rayne’s decision to collaborate with Wiktor Smolak to eliminate the insurgents attracted harsh criticism from the beginning; now, with Sordish troops remaining in the country to “keep the peace”, the protesters say withdrawal is long overdue.
+END
+Title:WEHLEN OPERATION AFTERMATH CONTINUES
+Variable: NewsVar.
+Newspaper: Geopolitico    
+Condition Check: if joint operation
+Months after Presidents Anton Rayne and Wiktor Smolak declared a successful end to their joint operations agains the Bludish Freedom Front in Wehlen, the region still remains fraught. Multiple street skirmishes between Bluds and Wehzeks have been broken up by peacekeeping troops, while efforts to rebuild the homes and businesses that were destroyed in the conflict have stalled out. The one upside is that no further retaliation from the Freedom Front has been seen.
+END
+
+
+Title:REFUGEES SUFFER BECAUSE OF RAYNE
+Variable: NewsVar.
+Newspaper: Radical     
+Condition Check: if border closed
+As more and more Bluds and Wehzeks attempt to flee Wehlen, we are seeing the consequences of Anton Rayne’s inhumanitarian border policy. Turned away from Sordland, families face homelessness, starvation and persecution from Wiktor Smolak’s regime. Some head to Lespia, where they are accepted but must undergo the country’s labyrinthine asylum process; politicians there are already complaining of a “refugee crisis”. Rayne must act now before more lives are lost.
+END
+Title:WORLD IGNORES THE BLUDISH PLIGHT
+Variable: NewsVar.
+Newspaper: Radical     
+Condition Check: 
+Barred from high-paying jobs, discouraged from attending university, spat on in the streets -- where is the outrage against Sordland’s relentless oppression of the Bluds? For decades, Bludish Sords have been treated as lesser beings, with the law still allowing rampant discrimination from businesses and educational institutions. We call on the international community to raise awareness of this tragedy, so that we can begin promoting equality among all Sordish citizens.
+END
+Title:SORDISH-ARCASIAN JOINT DRILLS AT ERLORY AIR BASE 
+Variable: NewsVar.
+Newspaper: Holsord Post    
+Condition Check: 
+Arcasia, having been granted access to Erlory Air Base, has been running joint military drills with Sordish planes. The exercise is indicative of the deepening trust between our country and Arcasia following the deal, during which Arcasia also promised Sordland financial, logistical and equipmental support.
+END
+
+
+Title:SORDISH-CONTANAN JOINT DRILLS AT CONRIAT NAVAL BASE
+Variable: NewsVar.
+Newspaper: Holsord Post    
+Condition Check: 
+United Contana, having been granted access to Conriat Naval Base, has been running joint military drills with Sordish ships. The exercise is indicative of the deepening trust between our country and United Contana following the deal, during which United Contana also promised Sordland financial, logistical and equipmental support.
+END
+
+
+Title:VALGISH MAN SHOT AFTER BURNING AGNOLIAN FLAG IN HELJILAND - hegel condemns agnolia
+Variable: NewsVar.
+Newspaper: Geopolitico    
+Condition Check:  
+
+
+Text
+[bk]
+END
+[bl]
+Title:HELJILAND DANGEROUS MOVES FROM AGNOLIA
+Variable: NewsVar.
+Newspaper: Geopolitico    
+Condition Check:  if agnolia supported
+
+
+
+
+Text
+[bm]
+END
+
+
+[bn]
+Title:HELJILAND DANGEROUS MOVES FROM VALGSLAND
+Variable: NewsVar.
+Newspaper: Geopolitico    
+Condition Check:  if agnolia not supported
+
+
+Text
+[bo]
+END
+[bp]
+Title:CONTANAN SHIPS FROM CONRIAT SEEN TOGETHER WITH VALGSLANDIAN NAVY
+Variable: NewsVar.
+Newspaper: Geopolitico    
+Condition Check:  if financial aid UC 
+Text[bq]
+
+
+END
+
+
+_________________________________________________________________________
+ADDRESS TO NATION
+Title:SOLL TO FACE TRIAL -- FINALLY?
+Variable: NewsVar.
+Newspaper: the radical
+Condition Check: reform win/Soll trial promised
+Apparently, the famed Erlory “washroom summit” ended in enmity: in President Rayne’s Address to the Nation, he vowed that Tarquin Soll would face a trial for the crimes he committed during his decades-long rule. It’s a bold move and a well-justified decision from Rayne, but we’re not feeling optimistic. Even if he could get Soll on the stand, the Supreme Court -- which as we all know has heavily Sollist leanings, if it isn’t controlled by Soll himself -- would never convict him. But does Rayne have a Supreme Court shake-up in the works? It’s 1956, folks -- anything can happen…
+END
+Title:VINDICTIVE RAYNE GOES AFTER SOLL
+Variable: NewsVar.
+Newspaper: sordland today NO DEAL
+Condition Check: reform win/Soll trial promised
+After convincing the Assembly and Supreme Court to back his controversial constitutional reforms, President Rayne has a new target: Colonel Tarquin Soll. It seems the real goal of his reforms was not to benefit the Sordish people, but to vindictively strip away the immunity of our country’s greatest leader and force him onto the witness stand. 
+
+
+Announcing his intent during his filmed Address to the Nation, Rayne referred not to any specific act, but to the “crimes committed during Soll’s decades-long rule”. He’ll have to do a lot better than that if he’s truly planning on convicting the father of Sordland as we know it.
+END
+Title:PRESIDENT ANNOUNCES NEW PARLIAMENTARY SYSTEM
+Variable: NewsVar.
+Newspaper: lachaven times
+Condition Check: reform win/parliament announced
+In his filmed Address to the Nation, President Anton Rayne announced his intent to transition Sordland’s government into a parliamentary system. He paved the way for this with his much-discussed reforms, which took away much of the presidential power established in Tarquin Soll’s original Constitution. With the President of Sordland now unable to make decrees or appoint ministers without Assembly members’ input, the Assembly now plays a much greater role in our lawmaking process. 
+END
+
+
+Title:RAYNE: THE FUTURE LIES IN CAPITALISM
+Variable: NewsVar.
+Newspaper: holsord post
+Condition Check: reform win or loss/capitalism
+With his constitutional reforms successfully passed, President Rayne is looking towards Sordland’s future -- and that future is capitalist, he said in his filmed Address to the Nation. He cited the West as an example, leading insiders to think that Rayne is now gunning for an alliance with Arcasia. Overall, Rayne was praised for the composure and confidence on display during his speech.
+END
+Title:RAYNE: THE FUTURE LIES IN MALENYEVISM
+Variable: NewsVar.
+Newspaper: holsord post
+Condition Check: reform win or loss/malenyevism
+With his constitutional reforms successfully passed, President Rayne is looking towards Sordland’s future -- and that future is socialist, he said in his filmed Address to the Nation. He cited the Malenyevism of the East as an example, leading insiders to think that Rayne is now gunning for an alliance with United Contana. Overall, Rayne was praised for the composure and confidence on display during his speech.
+END
+
+
+Title:RAYNE: THE FUTURE LIES IN SOLLISM
+Variable: NewsVar.
+Newspaper: holsord post
+Condition Check: reform win or loss/Sollism
+With his constitutional reforms successfully passed, President Rayne is looking towards Sordland’s future -- and that future is Sollist, he said in his filmed Address to the Nation. The statement tracks with the final version of Rayne’s reforms, which were more conservative than many insiders were expecting. Overall, Rayne was praised for the composure and confidence on display during his speech.
+
+
+END
+Title:RAYNE: THE FUTURE LIES IN OUR HANDS
+Variable: NewsVar.
+Newspaper: holsord post
+Condition Check: reform win or loss/future in hands
+In his Address to the Nation, a confident Anton Rayne announced that with his constitutional reforms passed, the future now lies in our hands. The reform process was long and arduous, taking up much of Rayne’s first two years in office. Undoubtedly, the President is relieved to be able to move on and finish fulfilling his campaign promises.
+END
+Title:PRESIDENT’S SPEECH UPSTAGED BY FLY
+Variable: NewsVar.
+Newspaper: the radical
+Condition Check: autocrat win or loss
+Does anyone care about the Address to the Nation anymore? From the moment Rayne’s mic switched on, we knew we were in for a load of self-serving hot air -- and we got it, with the President mounting a pathetic defense of his state of emergency and braying about his campaign promises. The one spot of excitement was the fly circling round his head during the latter part of the speech. We eagerly watched to see if it would land on him, but it did not -- it seems even flies know better than to touch this man.
+END
+
+
+Title:PRESIDENT TO RESTORE SORDLAND TO GLORY
+Variable: NewsVar.
+Newspaper: sordland today DEAL
+Condition Check: autocrat win or loss
+The recent challenge to Anton Rayne’s state of emergency does not seem to have fazed our President. In his much-anticipated Address to the Nation, Rayne brushed off the court case as a momentary setback and vowed that he would continue to defend the country from internal threats while keeping his campaign promises and taking Sordland’s economy to new heights. We look forward to seeing what the second half of his presidency will bring.
+END
+
+
+_________________________________________________________________________
+MISC
+Title:Drive-by-Shooting in Arvory
+Variable: NewsVar.
+Newspaper: holsord post
+Condition Check: Law Enforcement Decreased
+
+
+Earlier today, a drive-by-shooting happened causing shops in the Arvory city not only millions of Sordish Ren in property damage, but also human lives. The group of armed assaults has been recognized by the Ministry of Interior to be from the known crime family “The Skinner”. Their target seems to be one of the shops from the “Koronelli Family”./n/nThe Ministry of Interior has yet to announce how she will handle the matter. It is to be anticipated that the Koranelli Family will soon retaliate and we hope that the people in Arvory City have prepared themselves.
+
+
+END
+Title:Police Successful Raids on Crime
+Variable: NewsVar.
+Newspaper: holsord post
+Condition Check: Law Enforcement increase
+
+
+Earlier this week, the police launched raids on shops and warehouses in Arvory City and Estord city. Their operations are reported to confiscate more than 2000 illegal firearms and drugs. The Captain of the police force in charge of these raids has released a statement saying that the shops are from the two notorious crime families the “Skinner” and the “Koranelli Family”./n/n
+“Those Operations were only possible due to the Law Enforcement Budget Increase. It has allowed us to launch investigations of the local police. Purging the corrupted ones and getting information about their networks, ” said the Ministry of Interior. It appears that thanks to President Anton, law and order will soon come back to Sordland.
+END
+
+
+
+
+
+
+
+
+[a]@sergeynowak@gmail.com
+_Assigned to Ata Sergey Nowak_
+[b]@sergeynowak@gmail.com
+_Assigned to Ata Sergey Nowak_
+[c]@sergeynowak@gmail.com
+_Assigned to Ata Sergey Nowak_
+[d]@rachel.glassberg@gmail.com 
+
+
+News about the results of the Education Unification Bill
+
+
+The U.L.E.A. passes the following laws. Section I enforces that the educational institutions of Sordland will teach all classes, except for foreign languages, in the official language of the country, unless they are given specific approval by the Ministry of Education. Universities, technical colleges and other schools that provide classes in any language other than Sordish will receive a suspension of operations until they apply for the approval process. Section II
+_Assigned to Rachel Glassberg_
+[e]@rachel.glassberg@gmail.com 
+
+
+News about the results of the Education Unification Bill
+
+
+The U.L.E.A. passes the following laws. Section I enforces that the educational institutions of Sordland will teach all classes, except for foreign languages, in the official language of the country, unless they are given specific approval by the Ministry of Education. Universities, technical colleges and other schools that provide classes in any language other than Sordish will receive a suspension of operations until they apply for the approval process. Section II
+_Assigned to Rachel Glassberg_
+[f]@rachel.glassberg@gmail.com 
+
+
+News about the results of the Education Unification Bill
+
+
+The U.L.E.A. passes the following laws. Section I enforces that the educational institutions of Sordland will teach all classes, except for foreign languages, in the official language of the country, unless they are given specific approval by the Ministry of Education. Universities, technical colleges and other schools that provide classes in any language other than Sordish will receive a suspension of operations until they apply for the approval process. Section II
+_Assigned to Rachel Glassberg_
+[g]@rachel.glassberg@gmail.com 
+
+
+News about the results of the Education Unification Bill
+
+
+The U.L.E.A. passes the following laws. Section I enforces that the educational institutions of Sordland will teach all classes, except for foreign languages, in the official language of the country, unless they are given specific approval by the Ministry of Education. Universities, technical colleges and other schools that provide classes in any language other than Sordish will receive a suspension of operations until they apply for the approval process. Section II
+_Assigned to Rachel Glassberg_
+[h]@rachel.glassberg@gmail.com 
+
+
+News about the results of the Education Unification Bill
+
+
+The U.L.E.A. passes the following laws. Section I enforces that the educational institutions of Sordland will teach all classes, except for foreign languages, in the official language of the country, unless they are given specific approval by the Ministry of Education. Universities, technical colleges and other schools that provide classes in any language other than Sordish will receive a suspension of operations until they apply for the approval process. Section II
+_Assigned to Rachel Glassberg_
+[i]@rachel.glassberg@gmail.com 
+
+
+News about the results of the Education Unification Bill
+
+
+The U.L.E.A. passes the following laws. Section I enforces that the educational institutions of Sordland will teach all classes, except for foreign languages, in the official language of the country, unless they are given specific approval by the Ministry of Education. Universities, technical colleges and other schools that provide classes in any language other than Sordish will receive a suspension of operations until they apply for the approval process. Section II
+_Assigned to Rachel Glassberg_
+[j]@rachel.glassberg@gmail.com 
+
+
+News about the results of the Education Unification Bill
+
+
+The U.L.E.A. passes the following laws. Section I enforces that the educational institutions of Sordland will teach all classes, except for foreign languages, in the official language of the country, unless they are given specific approval by the Ministry of Education. Universities, technical colleges and other schools that provide classes in any language other than Sordish will receive a suspension of operations until they apply for the approval process. Section II
+_Assigned to Rachel Glassberg_
+[k]@rachel.glassberg@gmail.com 
+
+
+News about the results of the Education Unification Bill
+
+
+The U.L.E.A. passes the following laws. Section I enforces that the educational institutions of Sordland will teach all classes, except for foreign languages, in the official language of the country, unless they are given specific approval by the Ministry of Education. Universities, technical colleges and other schools that provide classes in any language other than Sordish will receive a suspension of operations until they apply for the approval process. Section II
+_Assigned to Rachel Glassberg_
+[l]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[m]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[n]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[o]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[p]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[q]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[r]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[s]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[t]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[u]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[v]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[w]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[x]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[y]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[z]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[aa]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ab]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ac]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ad]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ae]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[af]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ag]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ah]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ai]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[aj]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ak]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[al]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[am]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[an]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ao]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ap]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[aq]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[ar]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[as]@tungthanhcao1091995@gmail.com
+
+
+Write news about protests.
+
+
+Emergency is for Emergency Extended (Autocrat Path)  
+
+
+Radical is radical anti establishment
+Lachaven Tİmes is neutral
+Holsord Post is pro government
+_Assigned to Tung Cao_
+[at]Review please.
+[au]@tungthanhcao1091995@gmail.com
+
+
+Write news about protests.
+
+
+Emergency is for Emergency Extended (Autocrat Path)  
+
+
+Radical is radical anti establishment
+Lachaven Tİmes is neutral
+Holsord Post is pro government
+_Assigned to Tung Cao_
+[av]Review please.
+[aw]@tungthanhcao1091995@gmail.com
+
+
+Write news about protests.
+
+
+Emergency is for Emergency Extended (Autocrat Path)  
+
+
+Radical is radical anti establishment
+Lachaven Tİmes is neutral
+Holsord Post is pro government
+_Assigned to Tung Cao_
+[ax]Review please.
+[ay]@tungthanhcao1091995@gmail.com
+
+
+Write news about protests.
+
+
+Emergency is for Emergency Extended (Autocrat Path)  
+
+
+Radical is radical anti establishment
+Lachaven Tİmes is neutral
+Holsord Post is pro government
+_Assigned to Tung Cao_
+[az]Review please.
+[ba]@tungthanhcao1091995@gmail.com
+
+
+Write news about protests.
+
+
+Emergency is for Emergency Extended (Autocrat Path)  
+
+
+Radical is radical anti establishment
+Lachaven Tİmes is neutral
+Holsord Post is pro government
+_Assigned to Tung Cao_
+[bb]Review please.
+[bc]@tungthanhcao1091995@gmail.com
+
+
+Write news about protests.
+
+
+Emergency is for Emergency Extended (Autocrat Path)  
+
+
+Radical is radical anti establishment
+Lachaven Tİmes is neutral
+Holsord Post is pro government
+_Assigned to Tung Cao_
+[bd]Review please.
+[be]@ozgunkilit@gmail.com
+_Assigned to ozgun kilit_
+[bf]@ozgunkilit@gmail.com
+_Assigned to ozgun kilit_
+[bg]@ozgunkilit@gmail.com
+_Assigned to ozgun kilit_
+[bh]@ozgunkilit@gmail.com
+_Assigned to ozgun kilit_
+[bi]@ozgunkilit@gmail.com
+_Assigned to ozgun kilit_
+[bj]@ozgunkilit@gmail.com
+_Assigned to ozgun kilit_
+[bk]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[bl]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[bm]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[bn]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[bo]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[bp]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
+[bq]@ilkekarademir@gmail.com
+_Assigned to İlke Karademir_
