@@ -7,7 +7,8 @@ public class ReadText : MonoBehaviour
 {
     public string filePathNews = "";
     public string filePathReports = "";
-    public string saveDestination = "";
+    public string saveDestinationNews = "";
+    public string saveDestinationReports = "";
     [SerializeField]
     NewsList newsList = new NewsList();
     [SerializeField]
@@ -27,13 +28,13 @@ public class ReadText : MonoBehaviour
     public void ConvertNewsToJson()
     {
         string newsData = JsonUtility.ToJson(newsList);
-        File.WriteAllText(saveDestination + "/news.json", newsData);
+        File.WriteAllText(saveDestinationNews + "/news.json", newsData);
     }
     [Button]
     public void ConvertReportsToJson()
     {
         string reportData = JsonUtility.ToJson(reportList);
-        File.WriteAllText(saveDestination + "/reports.json", reportData);
+        File.WriteAllText(saveDestinationReports + "/reports.json", reportData);
     }
     [Button]
     public void ReadNewsFromText()

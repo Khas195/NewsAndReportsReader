@@ -24,7 +24,15 @@ public class PanelControl : MonoBehaviour
     }
     public void OnReportsPathEnterd(string path)
     {
-        textReader.filePathNews = path;
+        textReader.filePathReports = path;
+    }
+    public void OnNewsSavePathEntered(string path)
+    {
+        textReader.saveDestinationNews = path;
+    }
+    public void OnReportsSavePathEntered(string path)
+    {
+        textReader.saveDestinationReports = path;
     }
     public void TurnNumberEntered(string turn)
     {
