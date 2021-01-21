@@ -1,0 +1,584 @@
+{
+    "version": "\"0.9.9.4\"",
+    "turnDataList": [
+        {
+            "turnNumber": "1",
+            "saveDatas": [
+                {
+                    "key": "[\\\"SuzVar.Public_Opinion\\\"]=",
+                    "dataValue": "3"
+                },
+                {
+                    "key": "[\\\"SuzVar.Bludish_Opinion\\\"]=",
+                    "dataValue": "-8"
+                },
+                {
+                    "key": "[\\\"SuzVar.GovernmentBudget\\\"]=",
+                    "dataValue": "3"
+                },
+                {
+                    "key": "[\\\"SuzVar.Economy\\\"]=",
+                    "dataValue": "3"
+                },
+                {
+                    "key": "[\\\"SuzVar.Sollist\\\"]=",
+                    "dataValue": "-4"
+                },
+                {
+                    "key": "[\\\"SuzVar.Capitalist\\\"]=",
+                    "dataValue": "1"
+                },
+                {
+                    "key": "[\\\"SuzVar.Democratic\\\"]=",
+                    "dataValue": "4"
+                },
+                {
+                    "key": "[\\\"SuzVar.Malenyevist\\\"]=",
+                    "dataValue": "-1"
+                }
+            ]
+        },
+        {
+            "turnNumber": "2",
+            "saveDatas": [
+                {
+                    "key": "[\\\"SuzVar.Public_Opinion\\\"]=",
+                    "dataValue": "6"
+                },
+                {
+                    "key": "[\\\"SuzVar.Bludish_Opinion\\\"]=",
+                    "dataValue": "-7"
+                },
+                {
+                    "key": "[\\\"SuzVar.GovernmentBudget\\\"]=",
+                    "dataValue": "2"
+                },
+                {
+                    "key": "[\\\"SuzVar.Economy\\\"]=",
+                    "dataValue": "2"
+                },
+                {
+                    "key": "[\\\"SuzVar.Sollist\\\"]=",
+                    "dataValue": "-5"
+                },
+                {
+                    "key": "[\\\"SuzVar.Capitalist\\\"]=",
+                    "dataValue": "2"
+                },
+                {
+                    "key": "[\\\"SuzVar.Democratic\\\"]=",
+                    "dataValue": "5"
+                },
+                {
+                    "key": "[\\\"SuzVar.Malenyevist\\\"]=",
+                    "dataValue": "-1"
+                }
+            ]
+        },
+        {
+            "turnNumber": "3",
+            "saveDatas": [
+                {
+                    "key": "[\\\"SuzVar.Public_Opinion\\\"]=",
+                    "dataValue": "7"
+                },
+                {
+                    "key": "[\\\"SuzVar.Bludish_Opinion\\\"]=",
+                    "dataValue": "-7"
+                },
+                {
+                    "key": "[\\\"SuzVar.GovernmentBudget\\\"]=",
+                    "dataValue": "-1"
+                },
+                {
+                    "key": "[\\\"SuzVar.Economy\\\"]=",
+                    "dataValue": "2"
+                },
+                {
+                    "key": "[\\\"SuzVar.Sollist\\\"]=",
+                    "dataValue": "-3"
+                },
+                {
+                    "key": "[\\\"SuzVar.Capitalist\\\"]=",
+                    "dataValue": "2"
+                },
+                {
+                    "key": "[\\\"SuzVar.Democratic\\\"]=",
+                    "dataValue": "6"
+                },
+                {
+                    "key": "[\\\"SuzVar.Malenyevist\\\"]=",
+                    "dataValue": "-1"
+                }
+            ]
+        },
+        {
+            "turnNumber": "4",
+            "saveDatas": [
+                {
+                    "key": "[\\\"SuzVar.Public_Opinion\\\"]=",
+                    "dataValue": "8"
+                },
+                {
+                    "key": "[\\\"SuzVar.Bludish_Opinion\\\"]=",
+                    "dataValue": "-7"
+                },
+                {
+                    "key": "[\\\"SuzVar.GovernmentBudget\\\"]=",
+                    "dataValue": "-2"
+                },
+                {
+                    "key": "[\\\"SuzVar.Economy\\\"]=",
+                    "dataValue": "3"
+                },
+                {
+                    "key": "[\\\"SuzVar.Sollist\\\"]=",
+                    "dataValue": "-5"
+                },
+                {
+                    "key": "[\\\"SuzVar.Capitalist\\\"]=",
+                    "dataValue": "6"
+                },
+                {
+                    "key": "[\\\"SuzVar.Democratic\\\"]=",
+                    "dataValue": "6"
+                },
+                {
+                    "key": "[\\\"SuzVar.Malenyevist\\\"]=",
+                    "dataValue": "-3"
+                }
+            ]
+        },
+        {
+            "turnNumber": "5",
+            "saveDatas": [
+                {
+                    "key": "[\\\"SuzVar.Public_Opinion\\\"]=",
+                    "dataValue": "6"
+                },
+                {
+                    "key": "[\\\"SuzVar.Bludish_Opinion\\\"]=",
+                    "dataValue": "-7"
+                },
+                {
+                    "key": "[\\\"SuzVar.GovernmentBudget\\\"]=",
+                    "dataValue": "-4"
+                },
+                {
+                    "key": "[\\\"SuzVar.Economy\\\"]=",
+                    "dataValue": "4"
+                },
+                {
+                    "key": "[\\\"SuzVar.Sollist\\\"]=",
+                    "dataValue": "-3"
+                },
+                {
+                    "key": "[\\\"SuzVar.Capitalist\\\"]=",
+                    "dataValue": "4"
+                },
+                {
+                    "key": "[\\\"SuzVar.Democratic\\\"]=",
+                    "dataValue": "10"
+                },
+                {
+                    "key": "[\\\"SuzVar.Malenyevist\\\"]=",
+                    "dataValue": "-5"
+                }
+            ]
+        },
+        {
+            "turnNumber": "6",
+            "saveDatas": [
+                {
+                    "key": "[\\\"SuzVar.Public_Opinion\\\"]=",
+                    "dataValue": "9"
+                },
+                {
+                    "key": "[\\\"SuzVar.Bludish_Opinion\\\"]=",
+                    "dataValue": "-6"
+                },
+                {
+                    "key": "[\\\"SuzVar.GovernmentBudget\\\"]=",
+                    "dataValue": "-6"
+                },
+                {
+                    "key": "[\\\"SuzVar.Economy\\\"]=",
+                    "dataValue": "5"
+                },
+                {
+                    "key": "[\\\"SuzVar.Sollist\\\"]=",
+                    "dataValue": "-3"
+                },
+                {
+                    "key": "[\\\"SuzVar.Capitalist\\\"]=",
+                    "dataValue": "5"
+                },
+                {
+                    "key": "[\\\"SuzVar.Democratic\\\"]=",
+                    "dataValue": "10"
+                },
+                {
+                    "key": "[\\\"SuzVar.Malenyevist\\\"]=",
+                    "dataValue": "-6"
+                }
+            ]
+        },
+        {
+            "turnNumber": "7",
+            "saveDatas": [
+                {
+                    "key": "[\\\"SuzVar.Public_Opinion\\\"]=",
+                    "dataValue": "10"
+                },
+                {
+                    "key": "[\\\"SuzVar.Bludish_Opinion\\\"]=",
+                    "dataValue": "-5"
+                },
+                {
+                    "key": "[\\\"SuzVar.GovernmentBudget\\\"]=",
+                    "dataValue": "-4"
+                },
+                {
+                    "key": "[\\\"SuzVar.Economy\\\"]=",
+                    "dataValue": "4"
+                },
+                {
+                    "key": "[\\\"SuzVar.Sollist\\\"]=",
+                    "dataValue": "-8"
+                },
+                {
+                    "key": "[\\\"SuzVar.Capitalist\\\"]=",
+                    "dataValue": "10"
+                },
+                {
+                    "key": "[\\\"SuzVar.Democratic\\\"]=",
+                    "dataValue": "17"
+                },
+                {
+                    "key": "[\\\"SuzVar.Malenyevist\\\"]=",
+                    "dataValue": "-7"
+                },
+                {
+                    "key": "[\\\"ReformsVar.Assembly_Vote\\\"]=",
+                    "dataValue": "7"
+                },
+                {
+                    "key": "[\\\"ReformsVar.Court_Vote\\\"]=",
+                    "dataValue": "9"
+                },
+                {
+                    "key": "[\\\"FactionsVar.OldGuard_Content\\\"]=",
+                    "dataValue": "true"
+                },
+                {
+                    "key": "[\\\"FactionsVar.OldGuard_Destroyed\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"FactionsVar.Oligarchs_Ally\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"FactionsVar.Oligarchs_Destroyed\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"FactionsVar.Oligarchs_KorontiLeader\\\"]=",
+                    "dataValue": "true"
+                }
+            ]
+        },
+        {
+            "turnNumber": "8",
+            "saveDatas": [
+                {
+                    "key": "[\\\"SuzVar.Public_Opinion\\\"]=",
+                    "dataValue": "10"
+                },
+                {
+                    "key": "[\\\"SuzVar.Bludish_Opinion\\\"]=",
+                    "dataValue": "-13"
+                },
+                {
+                    "key": "[\\\"SuzVar.GovernmentBudget\\\"]=",
+                    "dataValue": "-2"
+                },
+                {
+                    "key": "[\\\"SuzVar.Economy\\\"]=",
+                    "dataValue": "5"
+                },
+                {
+                    "key": "[\\\"SuzVar.Sollist\\\"]=",
+                    "dataValue": "20"
+                },
+                {
+                    "key": "[\\\"SuzVar.Capitalist\\\"]=",
+                    "dataValue": "-16"
+                },
+                {
+                    "key": "[\\\"SuzVar.Democratic\\\"]=",
+                    "dataValue": "-7"
+                },
+                {
+                    "key": "[\\\"SuzVar.Malenyevist\\\"]=",
+                    "dataValue": "2"
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_Nationwide_Revolt\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_Nationwide_Quelled\\\"]=",
+                    "dataValue": "true"
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_Nationwide_Protests\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_BludishProtests\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_BludishQuelled\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_BludishUprising\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Archetype_CapitalistRayne\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Archetype_ComradeRayne\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Archetype_DemocraticRayne\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Archetype_SollistRayne\\\"]=",
+                    "dataValue": "false"
+                }
+            ]
+        },
+        {
+            "turnNumber": "9",
+            "saveDatas": [
+                {
+                    "key": "[\\\"SuzVar.Public_Opinion\\\"]=",
+                    "dataValue": "-31"
+                },
+                {
+                    "key": "[\\\"SuzVar.Bludish_Opinion\\\"]=",
+                    "dataValue": "-6"
+                },
+                {
+                    "key": "[\\\"SuzVar.GovernmentBudget\\\"]=",
+                    "dataValue": "1"
+                },
+                {
+                    "key": "[\\\"SuzVar.Economy\\\"]=",
+                    "dataValue": "4"
+                },
+                {
+                    "key": "[\\\"SuzVar.Sollist\\\"]=",
+                    "dataValue": "-20"
+                },
+                {
+                    "key": "[\\\"SuzVar.Capitalist\\\"]=",
+                    "dataValue": "10"
+                },
+                {
+                    "key": "[\\\"SuzVar.Democratic\\\"]=",
+                    "dataValue": "16"
+                },
+                {
+                    "key": "[\\\"SuzVar.Malenyevist\\\"]=",
+                    "dataValue": "-3"
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_Nationwide_Revolt\\\"]=",
+                    "dataValue": ""
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_Nationwide_Quelled\\\"]=",
+                    "dataValue": ""
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_Nationwide_Protests\\\"]=",
+                    "dataValue": ""
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_BludishProtests\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_BludishQuelled\\\"]=",
+                    "dataValue": ""
+                },
+                {
+                    "key": "[\\\"SituationsVar.Order_BludishUprising\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Joined_ATO\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Joined_CSP\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Turn09_Military_WeakAgainstRumburg\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"FactionsVar.OldGuard_Destroyed\\\"]=",
+                    "dataValue": "true"
+                },
+                {
+                    "key": "[\\\"FactionsVar.OldGuard_Content\\\"]=",
+                    "dataValue": "true"
+                },
+                {
+                    "key": "[\\\"FactionsVar.Oligarchs_Destroyed\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"FactionsVar.Oligarchs_Ally\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"FactionsVar.Oligarchs_KorontiLeader\\\"]=",
+                    "dataValue": "true"
+                },
+                {
+                    "key": "[\\\"FactionsVar.Oligarchs_Enemy\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"FactionsVar.NFP_Destroyed\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"FactionsVar.PFJP_Destroyed\\\"]=",
+                    "dataValue": "false"
+                }
+            ]
+        },
+        {
+            "turnNumber": "10",
+            "saveDatas": [
+                {
+                    "key": "[\\\"SuzVar.Public_Opinion\\\"]=",
+                    "dataValue": "-34"
+                },
+                {
+                    "key": "[\\\"SuzVar.Bludish_Opinion\\\"]=",
+                    "dataValue": "-6"
+                },
+                {
+                    "key": "[\\\"SuzVar.GovernmentBudget\\\"]=",
+                    "dataValue": "1"
+                },
+                {
+                    "key": "[\\\"SuzVar.Economy\\\"]=",
+                    "dataValue": "4"
+                },
+                {
+                    "key": "[\\\"SuzVar.Sollist\\\"]=",
+                    "dataValue": "-20"
+                },
+                {
+                    "key": "[\\\"SuzVar.Capitalist\\\"]=",
+                    "dataValue": "10"
+                },
+                {
+                    "key": "[\\\"SuzVar.Democratic\\\"]=",
+                    "dataValue": "16"
+                },
+                {
+                    "key": "[\\\"SuzVar.Malenyevist\\\"]=",
+                    "dataValue": "-3"
+                }
+            ]
+        },
+        {
+            "turnNumber": "11",
+            "saveDatas": [
+                {
+                    "key": "[\\\"SuzVar.Public_Opinion\\\"]=",
+                    "dataValue": "-34"
+                },
+                {
+                    "key": "[\\\"SuzVar.Bludish_Opinion\\\"]=",
+                    "dataValue": "-6"
+                },
+                {
+                    "key": "[\\\"SuzVar.GovernmentBudget\\\"]=",
+                    "dataValue": "1"
+                },
+                {
+                    "key": "[\\\"SuzVar.Economy\\\"]=",
+                    "dataValue": "4"
+                },
+                {
+                    "key": "[\\\"SuzVar.Sollist\\\"]=",
+                    "dataValue": "-20"
+                },
+                {
+                    "key": "[\\\"SuzVar.Capitalist\\\"]=",
+                    "dataValue": "10"
+                },
+                {
+                    "key": "[\\\"SuzVar.Democratic\\\"]=",
+                    "dataValue": "16"
+                },
+                {
+                    "key": "[\\\"SuzVar.Malenyevist\\\"]=",
+                    "dataValue": "-3"
+                },
+                {
+                    "key": "[\\\"SuzVar.Election_Ending_Vote\\\"]=",
+                    "dataValue": "0"
+                },
+                {
+                    "key": "[\\\"SuzVar.Ending_Coup\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Ending_ElectionSpeech\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Ending_Exile\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Ending_ImpeachmentTrial\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Ending_Retirement\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Ending_RumburgWarLost\\\"]=",
+                    "dataValue": "true"
+                },
+                {
+                    "key": "[\\\"SuzVar.Ending_RumburgWarWin\\\"]=",
+                    "dataValue": "false"
+                },
+                {
+                    "key": "[\\\"SuzVar.Ending_WorldWar\\\"]=",
+                    "dataValue": "false"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+﻿WAR - Wehlen
+
+Title: Roads along Oldeburg and Gumren Blocked
+Variable:ReportsVar.Turn10_Uziren_BludsSabotageWehlen
+City/Country:  Uziren
+Condition Check: (SituationsVar.Law_BludishReconciliation == false || ReformsVar.PresiPower_Strong_BergiaSpecialZone_Oppress == false) && SuzVar.Wehlen_JointOperation == true && SuzVar.Rumburg_CallAlliesToWar == true
+
+The Wehzek soldiers report that the road along Gumren and Oldeburg is blocked  with a dozen logs. Furthermore, casualties from the Wehlen army are being reported in great numbers. The causes for this seem to be booby traps and frequent raids from the local bludish population as an act of revenge for Operation Bear Trap.
+
+END
+
+Title: Wehlen  - Deyr Resists Wehlen Troops
+Variable:ReportsVar.Turn10_Deyr_BludsSabotageWehlen
+City/Country:  Deyr
+Condition Check: (SituationsVar.Law_BludishReconciliation == false || ReformsVar.PresiPower_Strong_BergiaSpecialZone_Oppress == false) && SuzVar.Wehlen_JointOperation == true && SuzVar.Rumburg_CallAlliesToWar == true
+
+The Bludish citizens of Deyr have barricaded the entrances to the city, forcing the Wehlen army to circle around in order to move forward to Lachaven. The Wehzek generals were fuming by such disruptive attempts, so much so that they debated attacking the city.
+END
+
+
+Title: President Smolak withdraws his army.
+Variable:ReportsVar.Turn10_Wehlen_WithdrawArmy
+City/Country:  Wehlen
+Condition Check: ReportsVar.Turn10_Deyr_BludsSabotageWehlen == true && ReportsVar.Turn10_Uziren_BludsSabotageWehlen == true
+President Wiktor Smolak has sent us a message regarding the unfortunate incidents that occured while the Wehlen army was moving through Bergia. He said that if the Sordish people do not want Wehlen's help against Rumburg then he will not commit to the war plan. We have reports saying that the Wehlen army has withdrawn back to their border. An international diplomatic notice was delivered to the AN that Wehlen won't be fighting in the war.
+END
+
+Title: Peaceful Protests in Bergia
+Variable:ReportsVar.Turn10_Deyr_BludsProtestsWehlenArmy
+City/Country:  
+Condition Check: (SituationsVar.Law_BludishReconciliation == true && SuzVar.Wehlen_JointOperation == true && SuzVar.Rumburg_CallAlliesToWar == true
+
+The Bludish people living in Bergia are holding rallies and protesting against the arrival of Wehlen's troops across the region of Bergia. Even though the protests have been peaceful so far, the local police forces are still staying vigilant in case the protests turn violent.
+END
+
+Title: Wehlen set Lards and Dateford in flames
+Variable:ReportsVar.Turn10_Narbel_WehlenWarCrimes
+City/Country:  Narbel
+Condition Check: (SituationsVar.Law_BludishReconciliation == true && SuzVar.Wehlen_JointOperation == true && SuzVar.Rumburg_CallAlliesToWar == true
+A huge wave of Sordish refugees living in Lards and Datefort have fled back to Sordland. Refugee camps are being set up in Narbel to settle them in. However, these refugees are relaying war crimes committed by the Wehlen army. Rumours of rape, looting, and even mass genocide of the Bludish and Rumburg populations are commonly reported among these refugees.
+END
+
+______________________________________________
+WAR - Lespia
+
+
+Title: Morale Surges As Lespian Armies Left Holsord
+Variable:ReportsVar.Turn10_Holsord_Railway_LespiaArmyTransportation
+City/Country:  Holsord
+Condition Check: SuzVar.Turn10_SnO_Phase1_Lespia_Late == false
+Jubilant Sordish citizens in Holsord saw off hundreds of thousands Lespian soldiers and armored vehicles depart on the L1-Railway to the Estord frontline. Recordings and news of the massive armored force have emboldened the morale of the soldiers in the front line as well as the war support of our citizens.
+END
+
+Title: Lespian Armies Slowed Down
+Variable:ReportsVar.Turn10_Anrica_LespianArmiesLate
+City/Country: Anrica
+Condition Check: SuzVar.Turn10_SnO_Phase1_Lespia_Late == true
+After days of traveling from Holsord to Lachaven, the Lespian armies requested to rest and restock their supplies in Anrica. However, the mayor of Anrica has refused to let foreign armies enter a Sordish city due to fear of upheaval. Some even are worried of a take over of the city. Unfortunately, the arrival of the Lespian armies to the frontline has been delayed even further.
+END
+
+
+______________________________________________
+WAR - Agnolia
+
+Title: Agnolia Prepares Assault on Dome
+Variable:ReportsVar.Turn10_Agnolia_PreparesToAssaultDome_FullStrength
+City/Country:  Agnolia
+Condition Check: SuzVar.Agnolia_Alliance == true && SuzVar.Rumburg_AlliesCalledToWar == true && SuzVar.Agnolia_HeljilandRecognised == true && (SituationsVar.Military_ModernisedNavy == true || SituationsVar.Military_ExpandedNavy == true)
+Agnolia’s commander has sent us military reports that all their armies are in place to launch a full-scale assault on Dome. Agnolia has positioned their best troops at the front line and announced that they are committed to liberating their city from Rumburg's tyranny.
+END
+
+Title: Agnolia Prepares To Assault Dome
+Variable:ReportsVar.Turn10_Agnolia_PreparesToAssaultDome_HalfStrength
+City/Country:  Agnolia
+Condition Check: SuzVar.Agnolia_Alliance == true && SuzVar.Rumburg_AlliesCalledToWar == true && (SuzVar.Agnolia_HeljilandRecognised == false || SituationsVar.Military_ModernisedNavy == false || SituationsVar.Military_ExpandedNavy == false)
+Agnolia’s commander has sent us reports that their armies are in place to launch a full assault on Dome. Yet, their numbers seem to betray their commitment to retake the city. Other reports indicate that they are still leaving a huge portion of their forces to defend the Heljiland Island in case of a Valgslandian invasion.
+END
+
+Title: Agnolia's Late Arrival
+Variable:ReportsVar.Turn10_Arvory_Highway_AgnoliaLate_NotBuilt
+City/Country:  Arvory
+Condition Check: SuzVar.Turn10_SnO_Phase1_Agnolia_AssistPincer == true && SuzVar.Turn01_InT_Investment_Highway == false
+Agnolia's commander reported that his armies might not arrive in time for the battle. This, as he explained, is due to our poor infrastructure in the region which slowed down the movement of their units.
+END
+
+Title: Agnolian Army Ready in Agnland
+Variable:ReportsVar.Turn10_Arvory_Highway_AgnoliaNotLate_Built
+City/Country:  Arvory
+Condition Check: SuzVar.Turn10_SnO_Phase1_Agnolia_AssistPincer == true && SuzVar.Turn01_InT_Investment_Highway == true
+Agnolia's commander reported that his armies are in position in the Agnland region to help with the upcoming battle. He applauded the Sordish infrastructure as his armies traversed smoothly through the region's improved roadway network. The H-3 highway will be a strategic logistical link for transporting troops and supplies to and from Agnolia.
+END
+
+Title: Inexplicable Manoeuvres from Agnolian Armies
+Variable:ReportsVar.Turn10_Agnolia_AssaultHeljilandIsland
+City/Country:  Agnolia
+Condition Check: SuzVar.Valgsland_Alliance == true && SuzVar.Rumburg_AlliesCalledToWar == true && (SuzVar.Valgsland_HeljilandRecognised == false || SituationsVar.Military_ModernisedNavy == false || SituationsVar.Military_ExpandedNavy == false)
+We have several reports that Agnolia is mobilizing troops toward their capital Staalport. Civilian ships have gathered suspiciously at the city port and some of our generals are growing wary that Agnolia might attack Valglsand during the war with Rumburg in an attempt to retake the Heljiland Island with a naval invasion.
+END
+
+______________________________________________
+WAR - Valgsland
+Title: Valgsland Fleet Prepared To Embark
+Variable:ReportsVar.Turn10_Valgsland_InvadeEastRumburg
+City/Country:  Valgsland
+Condition Check: SuzVar.Valgsland_Alliance == true && SuzVar.Rumburg_AlliesCalledToWar == true && SuzVar.Turn10_SnO_Phase1_Valgsland_InvadeNorthRumburg == true
+
+Valgsland's admirals have notified us that two different locations across Rumburg's eastern shores have been selected for amphibious landings. Furthermore, their massive fleet is ready to embark from Wilbern and Sigmort at a moment's notice.
+.
+END
+Title: Valgsland Armies Arrived in Lachaven
+Variable:ReportsVar.Turn10_Lachaven_ValgslandArrivedInLachaven
+City/Country:  Lachaven
+Condition Check: SuzVar.Valgsland_Alliance == true && SuzVar.Rumburg_AlliesCalledToWar == true && SuzVar.Turn10_SnO_Phase1_Valgsland_AssistFrontLine == true
+
+The mayor of Lachaven has reported that Valgslandian transport ships have docked at the port and their troops are moving to the front line. However, certain citizens displayed animosity to the malenyevist soldiers. Fortunately, no violence has occurred during the deployment of the troops.
+END
+______________________________________________
+WAR - Sordland
+
+Title: Battle of Estord 
+Variable:ReportsVar.Turn10_Estord_TheBattleOfEstord
+City/Country:  Estord
+Condition Check: SuzVar.Turn10_SnO_Phase1_Pince == true
+At 7.00 in the morning, the Rumburg armies marched into the city of Estord. The city was empty since the citizens were already evacuated. 
+
+At 9.00 a.m, while the Rumburg armies were savaging and looting what was left of Estord, general Iosef sounded the signal for an all-out assault. 
+
+At 12.45, our first wave clashed with their southern flank, who were guarding the railway. 
+
+At 15.13, our pincer attack started to take shape as the eastern and western armies began to enclose the enemy. Meanwhile, our planes were bombing the logistical and strategic choke points between Estord and Crimsrad. The intensive fighting happened both in the sky and on the ground throughout the night.
+END
+Title: Battle of Estord - Victory
+Variable:ReportsVar.Turn10_Estord_TheBattleOfEstord_Victory
+City/Country:  Estord
+Condition Check:SuzVar.Turn10_SnO_Phase1_Pincer == true && SuzVar.Turn10_SnO_Phase1_Success == true 
+At 4.00 the following day of the initial assault, Rumburg troops defending the eastern front of Estord routed. 
+
+Our general commanding the army on the eastern side immediately signaled the victorious news to our headquarter and in the meantime telegraphed the news internationally and to all propaganda spies in Rumburg. 
+
+With their shattered eastern front their flank was exposed and their supply lines were captured and cutoff. As we slowly gained ground, the Rumburg general capitulated facing the inevitable. 
+
+At 14.00 on the same day, Sordland's flag was raised on top of Estord once again.
+END
+Title: Battle of Estord - Lost
+Variable:ReportsVar.Turn10_Estord_TheBattleOfEstord_Lost
+City/Country:  Estord
+Condition Check: SuzVar.Turn10_SnO_Phase1_Pincer == true && SuzVar.Turn10_SnO_Phase1_Success == false
+At 4.00 the following day of the initial assault, Rumburg troops defended the eastern front of Estord routed. In that crucial moment, Rumburg's commander made a decision that changed the tide of the battle. 
+
+At 9.00, he ordered all divisions from all front to withdraw back to the central area of the city. 
+
+At 11.00, as our troops pushed in the vicinity from all sides, the Rumburg general ordered all his men to do a full assault to the east to break out. We were caught off guard and by the time the other armies got to the eastern front, the fighting turned into a melee in which friendly fire became a concern to our generals.
+
+They managed to break our eastern front and at the same time stopped our pincer. With their rear free of our soldiers, they turned around and commenced a full assault on our remaining armies, routing them the following day.
+END
+Title: Rumburg’s First Wave
+Variable:ReportsVar.Turn10_Estord_DigDownAndDefend
+City/Country:  Estord
+Condition Check: SuzVar.Turn10_SnO_Phase1_DigDown == true
+At 7.00, Rumburg launched their tactical bombers ready to bomb our trenches across the border. 
+
+Our fighters attempted to limit their bombers' effectiveness. Dogfights occurred in the sky as bombs dropped across the battlefield for several hours straight. 
+
+At 10.00, Rumburg initiated an all-out assault with their tank columns leading the attack. Our hulled-down tanks managed to barely hold the line, while our infantry fought in the trenches nearby supporting them.
+END
+Title: Rumburg’s First Wave - Victory
+Variable:ReportsVar.Turn10_Estord_DigDownAndDefend_Victory
+City/Country:  Estord
+Condition Check: SuzVar.Turn10_SnO_Phase1_DigDown == true && SuzVar.Turn10_SnO_Phase1_Success == true
+After 3 hours of constant fighting the momentum of the Rumburg armies started to die down.
+
+General Valken ordered an all-out assault to puncture their defensive line at Crimsrad. With our tanks leading the charge, we managed to puncture through Rumburg defences.
+
+By the time the enemy attempted a defence-in-depth to slow us down, Sordland's flag was already flying high in Crimsrad.
+
+The news of the fall of the city led to the collapse of Rumburg troop morale across the battleline. As we started gaining ground, Rumburg generals ordered a full retreat back to defend Tzarsbourgh to avoid a full collapse of the front. But before their armies returned to the city, our tanks and infantry were already assaulting the garrisons of Tzarsbourgh.
+END
+Title: Rumburg’s First Wave - Lost
+Variable:ReportsVar.Turn10_Estord_DigDownAndDefend_Lost
+City/Country:  Estord
+Condition Check: SuzVar.Turn10_SnO_Phase1_DigDown == true && SuzVar.Turn10_SnO_Phase1_Success == false
+After 3 hours of constant fighting the momentum of the Rumburg armies started to die down.
+
+As General Valken was about to order an all-out assault to puncture Rumburg's defensive line at Crimsrad, news of our eastern front's collapse in Agnland arrived. Rumburgs military pressure started to mount up again following the event.  
+
+As we couldn't send troops to support the eastern flank, the only option at the time was to retreat all divisions back to Lachaven to avoid a full encirclement by the enemy. 
+
+Unfortunately, as we retreated, we suffered a very high amount of casualties.
+END
+Title: March Toward Tzarsbourgh
+Variable:ReportsVar.Turn10_Estord_TzarsbourghMarch
+City/Country:  Estord
+Condition Check: SuzVar.Turn10_SnO_Phase1_AssaultTzarsbourgh == true
+At 7.00, we initiated an all-out bombing and artillery barrage across their line in Crimsrad and logistic points between Crimsrad and Tzarsbourgh.
+
+At 7.30, our planes were spotted in Estord, Rumburg launched their fighters as a countermeasure to our air assault. Dogfights happened in the Rumburg sky for 2 hours straight. 
+
+At 9.30, General Iosef ordered the first army to push through the enemy line into Crimsrad. Our tank divisions in the first army charged forward, facing the Rumburg tanks head-on with our infantry behind to support them.
+END
+Title: March Toward Tzarsbourgh - Victory
+Variable:ReportsVar.Turn10_Estord_TzarsbourghMarch
+City/Country:  Estord
+Condition Check: SuzVar.Turn10_SnO_Phase1_AssaultTzarsbourgh == true && SuzVar.Turn10_SnO_Phase1_Success == true
+With our tanks leading the charge, we managed to push through Rumburg defences. Before Rumburg could respond to our offensive, Sordland's flag was flying high in Crimsrad. 
+
+The news of the fall of the city led to the collapse of Rumburg troop morale across the battleline. As we started gaining ground, Rumburg generals ordered a full retreat back to defend Tzarsbourgh to avoid a full collapse of the front. 
+
+But before their armies returned to the city, our tanks and infantry were already assaulting the garrisons of Tzarsbourgh.
+
+END
+Title: March Toward Tzarsbourgh - Lost
+Variable:ReportsVar.Turn10_Estord_TzarsbourghMarch
+City/Country:  Estord
+Condition Check: SuzVar.Turn10_SnO_Phase1_AssaultTzarsbourgh == true && SuzVar.Turn10_SnO_Phase1_Success == false
+As our armies were about to reach a breakthrough of Rumburg's defensive line at Crimsrad, news of our eastern front's collapse in Agnland arrived. Rumburg military pressure started to mount up. 
+
+Because we couldn't support the eastern flank, the only option at the time was to retreat all divisions back to Lachaven to avoid a full encirclement by the enemy. 
+
+Unfortunately, as we retreated, we suffered a very high amount of casualties.
+END
+
+Title: Optimistic Phase Two Meeting
+Variable:ReportsVar.Turn10_Estord_PhaseTwoMeetings_Dome_Opsimistic
+City/Country:  Estord
+Condition Check: SuzVar.Turn10_SnO_Phase1_Success == true && SuzVar.Turn10_SnO_Phase2_Success == true
+With our victory in phase one, we managed to take control of Tzarsbourgh while the enemy was heavily disorganized. Our commanding officers held a meeting in the city itself to review the battleplans for phase two. 
+
+The meeting went well and the generals walked out of the room with an optimistic projection for the assault on Dome.
+END
+Title: Loud Arguments In Phase Two Meeting
+Variable:ReportsVar.Turn10_Estord_PhaseTwoMeetings_Pessimistic
+City/Country:  Estord 
+Condition Check: SuzVar.Turn10_SnO_Phase1_Success == true && SuzVar.Turn10_SnO_Phase2_Success == false && SuzVar.Turn10_SnO_Phase2_Lespia_AttackDome == true
+With our victory in phase one, we managed to take control of Tzarsbourgh while the enemy was heavily disorganized. Our commanding officers held a meeting in the city itself to review the battleplans for phase two.
+
+However, the meeting turned south as loud arguments were observed between the generals. They walked out of the room with somber faces and pessimistic projections about the next phase.
+END
+Title: Phase Two Meeting
+Variable:ReportsVar.Turn10_Estord_PhaseTwoMeetings_Thornbourgh_Opsimistic
+City/Country: Estord 
+Condition Check: SuzVar.Turn10_SnO_Phase1_Success == true && SuzVar.Turn10_SnO_Phase2_Success == true && SuzVar.Turn10_SnO_Phase2_TakeThornbourgh == true
+With our victory in phase one, we managed to take control of Tzarsbourgh while the enemy was heavily disorganized. Our commanding officers held a meeting in the city itself to review the battleplans for phase two.
+
+The meeting went well and the generals walked out of the room with an optimistic projection for the assault on Thornbourgh.
+END
+
+Title: Rumburg’s Navy Raids Trade in Markian Sea
+Variable:ReportsVar.Turn10_Vesord_RumburgNavySuperior
+City/Country:  Vesord
+Condition Check: SituationsVar.ExpandedNavy == false && SituationsVar.ModernisedNavy == false
+Rumburg's navy has been spotted patrolling the Markian sea. Even with our numerous attempts to contest control over the area, we could not wrestle with their superior submarine fleet. 
+
+Hundreds of our trade ships that were carrying war supplies have been sunk before they could even enter our ports.
+END
+
+Title: Rumburg Shipping Sunk and Captured in Markian Sea
+Variable:ReportsVar.Turn10_Vesord_RumburgNavyInferior
+City/Country:  Vesord
+Condition Check:  SituationsVar.ExpandedNavy == true || SituationsVar.ModernisedNavy == true
+Rumburg's navy has been spotted patrolling the Markian sea. Even with our improved fleet, we barely managed to push them out of the Markian sea. Reports of ships sunk in the naval battles have mounted up substantially. 
+
+Fortunately, we have been sinking more of their ships and submarines with less losses on our side. With the Markian sea mostly under our control, we managed to sink or capture hundreds of trade ships carrying supplies for Rumburg, some even disguised as civilian ships.
+
+END

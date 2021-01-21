@@ -1,0 +1,234 @@
+{
+    "reports": [
+        {
+            "conditionVariable": "ReportsVar.Turn10_Uziren_BludsSabotageWehlen",
+            "cityName": "Uziren",
+            "reportName": "Roads along Oldeburg and Gumren Blocked",
+            "reportText": "The Wehzek soldiers report that the road along Gumren and Oldeburg is blocked  with a dozen logs. Furthermore, casualties from the Wehlen army are being reported in great numbers. The causes for this seem to be booby traps and frequent raids from the local bludish population as an act of revenge for Operation Bear Trap.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Deyr_BludsSabotageWehlen",
+            "cityName": "Deyr",
+            "reportName": "Wehlen  - Deyr Resists Wehlen Troops",
+            "reportText": "The Bludish citizens of Deyr have barricaded the entrances to the city, forcing the Wehlen army to circle around in order to move forward to Lachaven. The Wehzek generals were fuming by such disruptive attempts, so much so that they debated attacking the city.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Deyr_BludsProtestsWehlenArmy",
+            "cityName": "Deyr",
+            "reportName": "Peaceful Protests in Bergia",
+            "reportText": "The Bludish people living in Bergia are holding rallies and protesting against the arrival of Wehlen's troops across the region of Bergia. Even though the protests have been peaceful so far, the local police forces are still staying vigilant in case the protests turn violent.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Narbel_WehlenWarCrimes",
+            "cityName": "Narbel",
+            "reportName": "Wehlen set Lards and Dateford in flames",
+            "reportText": "A huge wave of Sordish refugees living in Lards and Datefort have fled back to Sordland. Refugee camps are being set up in Narbel to settle them in. However, these refugees are relaying war crimes committed by the Wehlen army. Rumours of rape, looting, and even mass genocide of the Bludish and Rumburg populations are commonly reported among these refugees.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Holsord_Railway_LespiaArmyTransportation",
+            "cityName": "Holsord",
+            "reportName": "Morale Surges As Lespian Armies Left Holsord",
+            "reportText": "Jubilant Sordish citizens in Holsord saw off hundreds of thousands Lespian soldiers and armored vehicles depart on the L1-Railway to the Estord frontline. Recordings and news of the massive armored force have emboldened the morale of the soldiers in the front line as well as the war support of our citizens.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Anrica_LespianArmiesLate",
+            "cityName": "Anrica",
+            "reportName": "Lespian Armies Slowed Down",
+            "reportText": "After days of traveling from Holsord to Lachaven, the Lespian armies requested to rest and restock their supplies in Anrica. However, the mayor of Anrica has refused to let foreign armies enter a Sordish city due to fear of upheaval. Some even are worried of a take over of the city. Unfortunately, the arrival of the Lespian armies to the frontline has been delayed even further.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Arvory_Highway_AgnoliaLate_NotBuilt",
+            "cityName": "Arvory",
+            "reportName": "Agnolia's Late Arrival",
+            "reportText": "Agnolia's commander reported that his armies might not arrive in time for the battle. This, as he explained, is due to our poor infrastructure in the region which slowed down the movement of their units.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Arvory_Highway_AgnoliaNotLate_Built",
+            "cityName": "Arvory",
+            "reportName": "Agnolian Army Ready in Agnland",
+            "reportText": "Agnolia's commander reported that his armies are in position in the Agnland region to help with the upcoming battle. He applauded the Sordish infrastructure as his armies traversed smoothly through the region's improved roadway network. The H-3 highway will be a strategic logistical link for transporting troops and supplies to and from Agnolia.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Lachaven_ValgslandArrivedInLachaven",
+            "cityName": "Lachaven",
+            "reportName": "Valgsland Armies Arrived in Lachaven",
+            "reportText": "The mayor of Lachaven has reported that Valgslandian transport ships have docked at the port and their troops are moving to the front line. However, certain citizens displayed animosity to the malenyevist soldiers. Fortunately, no violence has occurred during the deployment of the troops.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_TheBattleOfEstord",
+            "cityName": "Estord",
+            "reportName": "Battle of Estord",
+            "reportText": "At 7.00 in the morning, the Rumburg armies marched into the city of Estord. The city was empty since the citizens were already evacuated. \n\nAt 9.00 a.m, while the Rumburg armies were savaging and looting what was left of Estord, general Iosef sounded the signal for an all-out assault. \n\nAt 12.45, our first wave clashed with their southern flank, who were guarding the railway. \n\nAt 15.13, our pincer attack started to take shape as the eastern and western armies began to enclose the enemy. Meanwhile, our planes were bombing the logistical and strategic choke points between Estord and Crimsrad. The intensive fighting happened both in the sky and on the ground throughout the night.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_TheBattleOfEstord_Victory",
+            "cityName": "Estord",
+            "reportName": "Battle of Estord - Victory",
+            "reportText": "At 4.00 the following day of the initial assault, Rumburg troops defending the eastern front of Estord routed. \n\nOur general commanding the army on the eastern side immediately signaled the victorious news to our headquarter and in the meantime telegraphed the news internationally and to all propaganda spies in Rumburg. \n\nWith their shattered eastern front their flank was exposed and their supply lines were captured and cutoff. As we slowly gained ground, the Rumburg general capitulated facing the inevitable. \n\nAt 14.00 on the same day, Sordland's flag was raised on top of Estord once again.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_TheBattleOfEstord_Lost",
+            "cityName": "Estord",
+            "reportName": "Battle of Estord - Lost",
+            "reportText": "At 4.00 the following day of the initial assault, Rumburg troops defended the eastern front of Estord routed. In that crucial moment, Rumburg's commander made a decision that changed the tide of the battle. \n\nAt 9.00, he ordered all divisions from all front to withdraw back to the central area of the city. \n\nAt 11.00, as our troops pushed in the vicinity from all sides, the Rumburg general ordered all his men to do a full assault to the east to break out. We were caught off guard and by the time the other armies got to the eastern front, the fighting turned into a melee in which friendly fire became a concern to our generals.\n\nThey managed to break our eastern front and at the same time stopped our pincer. With their rear free of our soldiers, they turned around and commenced a full assault on our remaining armies, routing them the following day.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_DigDownAndDefend",
+            "cityName": "Estord",
+            "reportName": "Rumburg’s First Wave",
+            "reportText": "At 7.00, Rumburg launched their tactical bombers ready to bomb our trenches across the border. \n\nOur fighters attempted to limit their bombers' effectiveness. Dogfights occurred in the sky as bombs dropped across the battlefield for several hours straight. \n\nAt 10.00, Rumburg initiated an all-out assault with their tank columns leading the attack. Our hulled-down tanks managed to barely hold the line, while our infantry fought in the trenches nearby supporting them.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_DigDownAndDefend_Victory",
+            "cityName": "Estord",
+            "reportName": "Rumburg’s First Wave - Victory",
+            "reportText": "After 3 hours of constant fighting the momentum of the Rumburg armies started to die down.\n\nGeneral Valken ordered an all-out assault to puncture their defensive line at Crimsrad. With our tanks leading the charge, we managed to puncture through Rumburg defences.\n\nBy the time the enemy attempted a defence-in-depth to slow us down, Sordland's flag was already flying high in Crimsrad.\n\nThe news of the fall of the city led to the collapse of Rumburg troop morale across the battleline. As we started gaining ground, Rumburg generals ordered a full retreat back to defend Tzarsbourgh to avoid a full collapse of the front. But before their armies returned to the city, our tanks and infantry were already assaulting the garrisons of Tzarsbourgh.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_DigDownAndDefend_Lost",
+            "cityName": "Estord",
+            "reportName": "Rumburg’s First Wave - Lost",
+            "reportText": "After 3 hours of constant fighting the momentum of the Rumburg armies started to die down.\n\nAs General Valken was about to order an all-out assault to puncture Rumburg's defensive line at Crimsrad, news of our eastern front's collapse in Agnland arrived. Rumburgs military pressure started to mount up again following the event.  \n\nAs we couldn't send troops to support the eastern flank, the only option at the time was to retreat all divisions back to Lachaven to avoid a full encirclement by the enemy. \n\nUnfortunately, as we retreated, we suffered a very high amount of casualties.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_TzarsbourghMarch",
+            "cityName": "Estord",
+            "reportName": "March Toward Tzarsbourgh",
+            "reportText": "At 7.00, we initiated an all-out bombing and artillery barrage across their line in Crimsrad and logistic points between Crimsrad and Tzarsbourgh.\n\nAt 7.30, our planes were spotted in Estord, Rumburg launched their fighters as a countermeasure to our air assault. Dogfights happened in the Rumburg sky for 2 hours straight. \n\nAt 9.30, General Iosef ordered the first army to push through the enemy line into Crimsrad. Our tank divisions in the first army charged forward, facing the Rumburg tanks head-on with our infantry behind to support them.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_TzarsbourghMarch",
+            "cityName": "Estord",
+            "reportName": "March Toward Tzarsbourgh - Victory",
+            "reportText": "With our tanks leading the charge, we managed to push through Rumburg defences. Before Rumburg could respond to our offensive, Sordland's flag was flying high in Crimsrad. \n\nThe news of the fall of the city led to the collapse of Rumburg troop morale across the battleline. As we started gaining ground, Rumburg generals ordered a full retreat back to defend Tzarsbourgh to avoid a full collapse of the front. \n\nBut before their armies returned to the city, our tanks and infantry were already assaulting the garrisons of Tzarsbourgh.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_TzarsbourghMarch",
+            "cityName": "Estord",
+            "reportName": "March Toward Tzarsbourgh - Lost",
+            "reportText": "As our armies were about to reach a breakthrough of Rumburg's defensive line at Crimsrad, news of our eastern front's collapse in Agnland arrived. Rumburg military pressure started to mount up. \n\nBecause we couldn't support the eastern flank, the only option at the time was to retreat all divisions back to Lachaven to avoid a full encirclement by the enemy. \n\nUnfortunately, as we retreated, we suffered a very high amount of casualties.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_PhaseTwoMeetings_Dome_Opsimistic",
+            "cityName": "Estord",
+            "reportName": "Optimistic Phase Two Meeting",
+            "reportText": "With our victory in phase one, we managed to take control of Tzarsbourgh while the enemy was heavily disorganized. Our commanding officers held a meeting in the city itself to review the battleplans for phase two. \n\nThe meeting went well and the generals walked out of the room with an optimistic projection for the assault on Dome.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_PhaseTwoMeetings_Pessimistic",
+            "cityName": "Estord",
+            "reportName": "Loud Arguments In Phase Two Meeting",
+            "reportText": "With our victory in phase one, we managed to take control of Tzarsbourgh while the enemy was heavily disorganized. Our commanding officers held a meeting in the city itself to review the battleplans for phase two.\n\nHowever, the meeting turned south as loud arguments were observed between the generals. They walked out of the room with somber faces and pessimistic projections about the next phase.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Estord_PhaseTwoMeetings_Thornbourgh_Opsimistic",
+            "cityName": "Estord",
+            "reportName": "Phase Two Meeting",
+            "reportText": "With our victory in phase one, we managed to take control of Tzarsbourgh while the enemy was heavily disorganized. Our commanding officers held a meeting in the city itself to review the battleplans for phase two.\n\nThe meeting went well and the generals walked out of the room with an optimistic projection for the assault on Thornbourgh.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Vesord_RumburgNavySuperior",
+            "cityName": "Vesord",
+            "reportName": "Rumburg’s Navy Raids Trade in Markian Sea",
+            "reportText": "Rumburg's navy has been spotted patrolling the Markian sea. Even with our numerous attempts to contest control over the area, we could not wrestle with their superior submarine fleet. \n\nHundreds of our trade ships that were carrying war supplies have been sunk before they could even enter our ports.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        },
+        {
+            "conditionVariable": "ReportsVar.Turn10_Vesord_RumburgNavyInferior",
+            "cityName": "Vesord",
+            "reportName": "Rumburg Shipping Sunk and Captured in Markian Sea",
+            "reportText": "Rumburg's navy has been spotted patrolling the Markian sea. Even with our improved fleet, we barely managed to push them out of the Markian sea. Reports of ships sunk in the naval battles have mounted up substantially. \n\nFortunately, we have been sinking more of their ships and submarines with less losses on our side. With the Markian sea mostly under our control, we managed to sink or capture hundreds of trade ships carrying supplies for Rumburg, some even disguised as civilian ships.",
+            "turnNo": 10,
+            "isEnabled": false,
+            "isUserNotified": false,
+            "isReportDone": false
+        }
+    ]
+}
