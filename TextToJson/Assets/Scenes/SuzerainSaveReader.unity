@@ -152,331 +152,273 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6424f0631ae1544b8eb2df5f73cf9a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  path: C:\Users\Tung\Desktop\SuzrainBug\SuzSavesFile\JanuarySaves\Znkoas
-  saveName: Znkoas
+  path: C:\Users\tungt\OneDrive\Desktop\Suzerain-Dev\Saves\Craggles_SordishLiberal_Warlost1\warlost1
+  saveName: Craggles_SordishLiberal_Warlost_1
   gameData:
-    version: '"1.0.5"'
+    version: '"1.0.9"'
     turnDataList:
     - turnNumber: 1
       saveDatas:
       - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
+        dataValue: 1
       - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
+        dataValue: -2
       - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
+        dataValue: 2
       - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
+        dataValue: 2
       - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
+        dataValue: -5
       - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
+        dataValue: 7
       - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
+        dataValue: 5
       - key: '[\"SuzVar.Malenyevist\"]='
-        dataValue: 
+        dataValue: -3
     - turnNumber: 2
       saveDatas:
       - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
+        dataValue: 1
       - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
+        dataValue: -1
       - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
+        dataValue: 0
       - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
+        dataValue: 1
       - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
+        dataValue: -6
       - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
+        dataValue: 10
       - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
+        dataValue: 7
       - key: '[\"SuzVar.Malenyevist\"]='
-        dataValue: 
+        dataValue: -5
     - turnNumber: 3
       saveDatas:
       - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
+        dataValue: 4
       - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
+        dataValue: 0
       - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
+        dataValue: -4
       - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
+        dataValue: 0
       - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
+        dataValue: -6
       - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
+        dataValue: 10
       - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
+        dataValue: 5
       - key: '[\"SuzVar.Malenyevist\"]='
-        dataValue: 
+        dataValue: -7
     - turnNumber: 4
       saveDatas:
       - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
+        dataValue: 3
       - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
+        dataValue: 0
       - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
+        dataValue: -6
       - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
+        dataValue: 1
       - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
+        dataValue: -11
       - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
+        dataValue: 14
       - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
+        dataValue: 5
       - key: '[\"SuzVar.Malenyevist\"]='
-        dataValue: 
+        dataValue: -11
     - turnNumber: 5
       saveDatas:
       - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
+        dataValue: -2
       - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
+        dataValue: 5
       - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
+        dataValue: -5
       - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
+        dataValue: -3
       - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
+        dataValue: -11
       - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
+        dataValue: 13
       - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
+        dataValue: 8
       - key: '[\"SuzVar.Malenyevist\"]='
-        dataValue: 
+        dataValue: -12
     - turnNumber: 6
       saveDatas:
       - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
+        dataValue: 3
       - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
+        dataValue: 6
       - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
+        dataValue: -7
       - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
+        dataValue: -3
       - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
+        dataValue: -13
       - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
+        dataValue: 17
       - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
+        dataValue: 7
       - key: '[\"SuzVar.Malenyevist\"]='
-        dataValue: 
+        dataValue: -15
     - turnNumber: 7
       saveDatas:
       - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
+        dataValue: 1
       - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
+        dataValue: 18
       - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
+        dataValue: -4
       - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
+        dataValue: -2
       - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
+        dataValue: -28
       - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
+        dataValue: 23
       - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
+        dataValue: 18
       - key: '[\"SuzVar.Malenyevist\"]='
-        dataValue: 
-      - key: '[\"ReformsVar.Assembly_Vote\"]='
-        dataValue: 
-      - key: '[\"ReformsVar.Court_Vote\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.OldGuard_Content\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.OldGuard_Destroyed\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.Oligarchs_Ally\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.Oligarchs_Destroyed\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.Oligarchs_KorontiLeader\"]='
-        dataValue: 
+        dataValue: -21
     - turnNumber: 8
       saveDatas:
       - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
+        dataValue: -1
       - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
+        dataValue: 24
       - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
+        dataValue: -5
       - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
+        dataValue: 1
       - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
+        dataValue: -34
       - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
+        dataValue: 22
       - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
+        dataValue: 22
       - key: '[\"SuzVar.Malenyevist\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_Nationwide_Revolt\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_Nationwide_Quelled\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_Nationwide_Protests\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_BludishProtests\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_BludishQuelled\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_BludishUprising\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Archetype_CapitalistRayne\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Archetype_ComradeRayne\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Archetype_DemocraticRayne\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Archetype_SollistRayne\"]='
-        dataValue: 
+        dataValue: -18
     - turnNumber: 9
       saveDatas:
       - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
+        dataValue: -11
       - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
+        dataValue: 30
       - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
+        dataValue: -3
       - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
+        dataValue: 2
       - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
+        dataValue: -39
       - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
+        dataValue: 22
       - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
+        dataValue: 27
       - key: '[\"SuzVar.Malenyevist\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_Nationwide_Revolt\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_Nationwide_Quelled\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_Nationwide_Protests\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_BludishProtests\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_BludishQuelled\"]='
-        dataValue: 
-      - key: '[\"SituationsVar.Order_BludishUprising\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Joined_ATO\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Joined_CSP\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Turn09_Military_WeakAgainstRumburg\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.OldGuard_Destroyed\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.OldGuard_Content\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.Oligarchs_Destroyed\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.Oligarchs_Ally\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.Oligarchs_KorontiLeader\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.Oligarchs_Enemy\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.NFP_Destroyed\"]='
-        dataValue: 
-      - key: '[\"FactionsVar.PFJP_Destroyed\"]='
-        dataValue: 
+        dataValue: -18
     - turnNumber: 10
       saveDatas:
       - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
+        dataValue: -14
       - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
+        dataValue: 30
       - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
+        dataValue: -3
       - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
+        dataValue: 2
       - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
+        dataValue: -39
       - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
+        dataValue: 22
       - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
+        dataValue: 27
       - key: '[\"SuzVar.Malenyevist\"]='
+        dataValue: -18
+      - key: '[\"ReformsVar.VoteCount_Independents_1\"]='
         dataValue: 
-    - turnNumber: 11
-      saveDatas:
-      - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
-      - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Malenyevist\"]='
-        dataValue: 
+      - key: '[\"ReformsVar.VoteCount_NFP\"]='
+        dataValue: 0
+      - key: '[\"ReformsVar.VoteCount_PFJP_RictersWing\"]='
+        dataValue: 5
+      - key: '[\"ReformsVar.VoteCount_PFJP_Undecided\"]='
+        dataValue: 2
+      - key: '[\"ReformsVar.VoteCount_USP_AlbinsWing\"]='
+        dataValue: 4
+      - key: '[\"ReformsVar.VoteCount_USP_GloriasWing\"]='
+        dataValue: 2
+      - key: '[\"ReformsVar.VoteCount_USP_Undecided\"]='
+        dataValue: 3
+      - key: '[\"Isolated.Ending_Vote_Bludish\"]='
+        dataValue: 2
+      - key: '[\"Isolated.Ending_Vote_Centrists\"]='
+        dataValue: 2
+      - key: '[\"Isolated.Ending_Vote_Conservatives\"]='
+        dataValue: 1
+      - key: '[\"Isolated.Ending_Vote_Liberals\"]='
+        dataValue: 1
+      - key: '[\"Isolated.Ending_Vote_Nationalists\"]='
+        dataValue: 0
+      - key: '[\"Isolated.Ending_Vote_Socialists\"]='
+        dataValue: 0
       - key: '[\"SuzVar.Election_Ending_Vote\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_Coup\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_ElectionSpeech\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_Exile\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_ImpeachmentTrial\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_Retirement\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_RumburgWarLost\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_RumburgWarWin\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_WorldWar\"]='
-        dataValue: 
+        dataValue: 7
+      - key: '[\"ReformsVar.Court_Vote\"]='
+        dataValue: 7
+      - key: '[\"ReformsVar.Assembly_Vote\"]='
+        dataValue: 17
     - turnNumber: 12
       saveDatas:
       - key: '[\"SuzVar.Public_Opinion\"]='
-        dataValue: 
+        dataValue: -14
       - key: '[\"SuzVar.Bludish_Opinion\"]='
-        dataValue: 
+        dataValue: 30
       - key: '[\"SuzVar.GovernmentBudget\"]='
-        dataValue: 
+        dataValue: -3
       - key: '[\"SuzVar.Economy\"]='
-        dataValue: 
+        dataValue: 2
       - key: '[\"SuzVar.Sollist\"]='
-        dataValue: 
+        dataValue: -39
       - key: '[\"SuzVar.Capitalist\"]='
-        dataValue: 
+        dataValue: 22
       - key: '[\"SuzVar.Democratic\"]='
-        dataValue: 
+        dataValue: 27
       - key: '[\"SuzVar.Malenyevist\"]='
+        dataValue: -18
+      - key: '[\"ReformsVar.VoteCount_Indepdents_1\"]='
         dataValue: 
+      - key: '[\"ReformsVar.VoteCount_NFP\"]='
+        dataValue: 0
+      - key: '[\"ReformsVar.VoteCount_PFJP_RictersWing\"]='
+        dataValue: 5
+      - key: '[\"ReformsVar.VoteCount_PFJP_Undecided\"]='
+        dataValue: 2
+      - key: '[\"ReformsVar.VoteCount_USP_AlbinsWing\"]='
+        dataValue: 4
+      - key: '[\"ReformsVar.VoteCount_USP_GloriasWing\"]='
+        dataValue: 2
+      - key: '[\"ReformsVar.VoteCount_USP_Undecided\"]='
+        dataValue: 3
+      - key: '[\"Isolated.Ending_Vote_Bludish\"]='
+        dataValue: 2
+      - key: '[\"Isolated.Ending_Vote_Centrists\"]='
+        dataValue: 2
+      - key: '[\"Isolated.Ending_Vote_Conservatives\"]='
+        dataValue: 1
+      - key: '[\"Isolated.Ending_Vote_Liberals\"]='
+        dataValue: 1
+      - key: '[\"Isolated.Ending_Vote_Nationalists\"]='
+        dataValue: 0
+      - key: '[\"Isolated.Ending_Vote_Socialists\"]='
+        dataValue: 0
       - key: '[\"SuzVar.Election_Ending_Vote\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_Coup\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_ElectionSpeech\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_Exile\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_ImpeachmentTrial\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_Retirement\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_RumburgWarLost\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_RumburgWarWin\"]='
-        dataValue: 
-      - key: '[\"SuzVar.Ending_WorldWar\"]='
-        dataValue: 
+        dataValue: 7
+      - key: '[\"ReformsVar.Court_Vote\"]='
+        dataValue: 7
+      - key: '[\"ReformsVar.Assembly_Vote\"]='
+        dataValue: 17
 --- !u!4 &13265192
 Transform:
   m_ObjectHideFlags: 0

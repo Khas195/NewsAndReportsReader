@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using NaughtyAttributes;
@@ -17,6 +17,22 @@ public class SaveDataForGoogleForm
     public string capitalist = "404-Unknown";
     public string malenyevist = "404-Unknown";
     public string democratic = "404-Unknown";
+    public string voteCount_Independents = "404-Unknown";
+    public string voteCount_NFP = "404-Unknown";
+    public string voteCount_PFJP_RictersWing = "404-Unknown";
+    public string voteCount_PFJP_Undecided = "404-Unknown";
+    public string voteCount_USP_AlbinsWing = "404-Unknown";
+    public string voteCount_USP_GloriasWing = "404-Unknown";
+    public string voteCount_USP_Undecided = "404-Unknown";
+    public string endingVote_Bludish = "404-Unknown";
+    public string endingVote_Centrists = "404-Unknown";
+    public string endingVote_Conservatives = "404-Unknown";
+    public string endingVote_Liberals = "404-Unknown";
+    public string endingVote_Nationalists = "404-Unknown";
+    public string endingVote_Socialists = "404-Unknown";
+    public string ending_Election_Votes = "404-Unknown";
+    public string court_Vote = "404-Unknown";
+    public string assembly_vote = "404-Unknown";
 }
 public class SuzSavesReader : MonoBehaviour
 {
@@ -32,6 +48,43 @@ public class SuzSavesReader : MonoBehaviour
     IEnumerator Post(SaveDataForGoogleForm dataForm)
     {
         WWWForm form = new WWWForm();
+        // Independent Vote
+        form.AddField("entry.1454203095", dataForm.voteCount_Independents);
+        // NFP Vote
+        form.AddField("entry.762042860", dataForm.voteCount_NFP);
+
+        // PFJP Ricter Wing 
+        form.AddField("entry.421097645", dataForm.voteCount_PFJP_RictersWing);
+
+        // PFJP Undecided 
+        form.AddField("entry.1769630878", dataForm.voteCount_PFJP_Undecided);
+
+        // USP Victoria 
+        form.AddField("entry.896766524", dataForm.voteCount_USP_GloriasWing);
+
+        // USP Albin 
+        form.AddField("entry.1543224069", dataForm.voteCount_USP_AlbinsWing);
+        // USP Undecided 
+        form.AddField("entry.1192201159", dataForm.voteCount_USP_Undecided);
+        // Ending Bludish Vote 
+        form.AddField("entry.2085699813", dataForm.endingVote_Bludish);
+        // Ending Centris 
+        form.AddField("entry.559308892", dataForm.endingVote_Centrists);
+        // Ending Conservatives 
+        form.AddField("entry.765241053", dataForm.endingVote_Conservatives);
+
+        // Ending Liberals 
+        form.AddField("entry.1791755143", dataForm.endingVote_Liberals);
+        // Ending Nationalist 
+        form.AddField("entry.1861751280", dataForm.endingVote_Nationalists);
+        // Ending Socialist 
+        form.AddField("entry.1744765744", dataForm.endingVote_Socialists);
+        // Ending Election Ending 
+        form.AddField("entry.2071787596", dataForm.ending_Election_Votes);
+        //  Assembly Vote
+        form.AddField("entry.2016252887", dataForm.assembly_vote);
+        //  Court Vote
+        form.AddField("entry.685662422", dataForm.court_Vote);
         // 1903643271 - Version
         form.AddField("entry.1903643271", dataForm.version);
         // entry.429997597 - name
@@ -86,6 +139,27 @@ public class SuzSavesReader : MonoBehaviour
             newSaveData.capitalist = gameData.turnDataList[i].saveDatas[5].dataValue;
             newSaveData.democratic = gameData.turnDataList[i].saveDatas[6].dataValue;
             newSaveData.malenyevist = gameData.turnDataList[i].saveDatas[7].dataValue;
+
+            if (gameData.turnDataList[i].saveDatas.Count >= 22)
+            {
+                newSaveData.voteCount_Independents = gameData.turnDataList[i].saveDatas[8].dataValue;
+                newSaveData.voteCount_NFP = gameData.turnDataList[i].saveDatas[9].dataValue;
+                newSaveData.voteCount_PFJP_RictersWing = gameData.turnDataList[i].saveDatas[10].dataValue;
+                newSaveData.voteCount_PFJP_Undecided = gameData.turnDataList[i].saveDatas[11].dataValue;
+                newSaveData.voteCount_USP_AlbinsWing = gameData.turnDataList[i].saveDatas[12].dataValue;
+                newSaveData.voteCount_USP_GloriasWing = gameData.turnDataList[i].saveDatas[13].dataValue;
+                newSaveData.voteCount_USP_Undecided = gameData.turnDataList[i].saveDatas[14].dataValue;
+                newSaveData.endingVote_Bludish = gameData.turnDataList[i].saveDatas[15].dataValue;
+                newSaveData.endingVote_Centrists = gameData.turnDataList[i].saveDatas[16].dataValue;
+                newSaveData.endingVote_Conservatives = gameData.turnDataList[i].saveDatas[17].dataValue;
+                newSaveData.endingVote_Liberals = gameData.turnDataList[i].saveDatas[18].dataValue;
+                newSaveData.endingVote_Nationalists = gameData.turnDataList[i].saveDatas[19].dataValue;
+                newSaveData.endingVote_Socialists = gameData.turnDataList[i].saveDatas[20].dataValue;
+                newSaveData.ending_Election_Votes = gameData.turnDataList[i].saveDatas[21].dataValue;
+                newSaveData.court_Vote = gameData.turnDataList[i].saveDatas[22].dataValue;
+                newSaveData.assembly_vote = gameData.turnDataList[i].saveDatas[23].dataValue;
+            }
+
             Debug.Log(("Turn saved: " + newSaveData.turnNumber).Bolden().Colorize(Color.green));
             StartCoroutine(Post(newSaveData));
         }
@@ -146,20 +220,13 @@ public class SuzSavesReader : MonoBehaviour
         return value;
     }
 
-    public void GetAllSuzeFilesInDirectory(string folderPath, ref List<string> suzeSaves, bool readEndFolder = true)
+    public void GetAllSuzeFilesInDirectory(string folderPath, ref List<string> suzeSaves, string saveToRead = "SaveGame.suze")
     {
-        var files = Directory.GetFiles(folderPath, "SaveGame.suze");
+        var files = Directory.GetFiles(folderPath, saveToRead);
         var folderName = folderPath.ToLower();
 
         bool shouldSkip = false;
-        if (readEndFolder)
-        {
-            shouldSkip = files.Length <= 0 || folderName.Contains("end") == false || folderName.Contains("demo") == true;
-        }
-        else
-        {
-            shouldSkip = files.Length <= 0 || (folderName.Contains("start") == false && folderName.Contains("begin") == false) || folderName.Contains("demo") == true;
-        }
+        shouldSkip = files.Length <= 0;
 
         if (shouldSkip)
         {
@@ -177,12 +244,10 @@ public class SuzSavesReader : MonoBehaviour
             nestedFolderName = nestedFolderName.ToLower();
             if (nestedFolderName.Contains("turn 11"))
             {
-                this.GetAllSuzeFilesInDirectory(folders[i], ref suzeSaves, false);
+
+                this.GetAllSuzeFilesInDirectory(folders[i], ref suzeSaves, "SaveGame_LastPlaythrough.suze");
             }
-            else
-            {
-                this.GetAllSuzeFilesInDirectory(folders[i], ref suzeSaves, readEndFolder);
-            }
+            this.GetAllSuzeFilesInDirectory(folders[i], ref suzeSaves);
         }
 
         if (folders.Length <= 0)

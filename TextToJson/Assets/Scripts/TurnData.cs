@@ -11,11 +11,11 @@ public class TurnData
     {
         for (int i = 0; i < saveDatas.Count; i++)
         {
-            if (saveDatas[i].dataValue == "")
+            if (saveDatas[i].dataValue != "")
             {
-                return true;
+                return false;
             }
         }
-        return false;
+        return true;
     }
 }
