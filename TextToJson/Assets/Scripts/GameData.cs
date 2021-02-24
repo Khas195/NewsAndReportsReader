@@ -1,20 +1,35 @@
 using System.Collections.Generic;
 using System;
+using NaughtyAttributes;
 
 [Serializable]
 public class GameData
 {
+    [ReadOnly]
     public string version = "";
-    public List<TurnData> turnDataList = new List<TurnData>();
+    [ReadOnly]
+    public string turnNumber = "0";
+    public string saveName = "";
+    public List<SaveData> saveDatas = new List<SaveData>();
+
+
     public void Clear()
     {
         version = "";
-        for (int i = 0; i < turnDataList.Count; i++)
+        for (int i = 0; i < saveDatas.Count; i++)
         {
-            for (int j = 0; j < turnDataList[i].saveDatas.Count; j++)
+            saveDatas[i].dataValue = "";
+        }
+    }
+    public bool HasEmptyValue()
+    {
+        for (int i = 0; i < saveDatas.Count; i++)
+        {
+            if (saveDatas[i].dataValue != "")
             {
-                turnDataList[i].saveDatas[j].dataValue = "";
+                return false;
             }
         }
+        return true;
     }
 }
